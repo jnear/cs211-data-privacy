@@ -1,9 +1,9 @@
 ---
-title: CS295B: Data Privacy
+title: CS 295B Data Privacy
+layout: page
 ---
 
-# CS295B: Data Privacy
-## Fall 2018
+# UVM CS 295B: Data Privacy (Fall 2018)
 
 ## Course Description
 
@@ -19,9 +19,9 @@ In addition to learning about the mathematical foundations of differential priva
 
 ## Administrative
 
-- **Lecture**:
+- **Lecture**: Monday and Wednesday, 5:05pm - 6:20pm, Votey 209
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: TBD, Votey 317
+- **Office hours**: Thursdays, 2:00pm - 4:00pm, Votey 317
 
 
 ## Textbook & Other References
