@@ -80,7 +80,7 @@ More information coming soon.
 | 8/27/18  | Intro to data analytics & data privacy | Nissim, sec. 1&2 |
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
-| 9/5/18   | Randomized response | D&R, sec. 3.2 | Guest speaker
+| 9/5/18   | No class
 | 9/10/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/)
 | 9/12/18  | K-Anonymity & re-identification | TBD
 | 9/17/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2 |
