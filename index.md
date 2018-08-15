@@ -1,6 +1,6 @@
 ---
 title: CS 295B Data Privacy
-layout: page
+layout: default
 ---
 
 # UVM CS 295B: Data Privacy (Fall 2018)
