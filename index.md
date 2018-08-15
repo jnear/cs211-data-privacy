@@ -1,4 +1,9 @@
-# Data Privacy
+---
+title: CS295B: Data Privacy
+---
+
+# CS295B: Data Privacy
+## Fall 2018
 
 ## Course Description
 
