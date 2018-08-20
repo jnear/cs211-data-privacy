@@ -23,6 +23,10 @@ In addition to learning about the mathematical foundations of differential priva
 - **Instructor**: Joe Near (jnear at uvm dot edu)
 - **Office hours**: Thursdays, 2:00pm - 4:00pm, Votey 317
 
+## Resources
+
+- **Homework assignments** will be turned in via Blackboard
+- **Discussions** will take place on the course Piazza
 
 ## Textbook & Other References
 
@@ -98,8 +102,8 @@ More information coming soon.
 | 10/10/18 | Local sensitivity & smooth sensitivity | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3
 | 10/15/18 | Midterm
 | 10/17/18 | Subsample & aggregate | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
-| 10/22/18 | DP Programming Languages || TBD
-| 10/24/18 | DP Programming Languages || TBD
+| 10/22/18 | Language techniques for privacy || TBD
+| 10/24/18 | Language techniques for privacy || TBD
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
 | 11/5/18  | Differentially private SGD | Bassily et al.              
