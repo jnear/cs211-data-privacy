@@ -5,6 +5,10 @@ layout: default
 
 # UVM CS 295B: Data Privacy (Fall 2018)
 
+## Announcements
+
+None yet.
+
 ## Course Description
 
 How can we learn from sensitive data collected from individuals, while protecting the privacy of those individuals? 
