@@ -50,13 +50,14 @@ In addition to these, we will reference a number of academic papers throughout t
 
 Your grade for the course will be determined as follows:
 
-- 10 homework assignments (5% each)
-- midterm exam (25%)
-- final project (25%)
+- 8 homework assignments (5% each; 40% total)
+- 2 in-class quizzes (10% each; 20% total)
+- midterm exam (20%)
+- final project (20%)
 
-### Exams
+### Exams & Quizzes
 
-There will be a midterm exam during class on October 15. You will also be allowed one physical page (8 1/2" x 11") of notes for each exam. There is no final exam, and this course will conclude before the University's exam period.
+There will be two quizzes during class on October 3 and November 26, and a midterm exam during class on October 15. You will be allowed one physical page (8 1/2" x 11") of notes for each exam. There is no final exam, and this course will conclude before the University's exam period.
 
 ### Homework Assignments
 
@@ -84,35 +85,35 @@ More information coming soon.
 
 ## Schedule
 
-| Date     | Topics        | Reference | Notes | Homework |
+| Date     | Topics        | Reference | Notes / Homework |
 | --------:|---------------|---------|-------|-------|
 | 8/27/18  | Intro to data analytics & data privacy | Nissim, sec. 1&2 |
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
 | 9/5/18   | No class
-| 9/10/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/)
-| 9/12/18  | K-Anonymity & re-identification | TBD
-| 9/17/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2 |
+| 9/10/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/) | HW1 released
+| 9/12/18  | K-Anonymity & re-identification |
+| 9/17/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2 | HW1 due, HW2 released
 | 9/19/18  | Sensitivity and the Laplace mechanism | D&R, sec. 3.3 |
-| 9/24/18  | Composition & post-processing | D&R, sec. 3.5, 3.5.1 |
+| 9/24/18  | Composition & post-processing | D&R, sec. 3.5, 3.5.1 | HW2 due, HW3 released
 | 9/26/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A
-| 10/1/18  | Advanced composition | D&R, sec. 3.5.2
-| 10/3/18  | Exponential mechanism | D&R, sec. 3.4
+| 10/1/18  | Advanced composition | D&R, sec. 3.5.2 | HW3 due, HW4 released
+| 10/3/18  | Exponential mechanism; Quiz #1 | D&R, sec. 3.4 | Quiz
 | 10/8/18  | No class (Fall break)
-| 10/10/18 | Local sensitivity & smooth sensitivity | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3
-| 10/15/18 | Midterm
+| 10/10/18 | Local sensitivity & smooth sensitivity | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, HW5 released
+| 10/15/18 | Midterm | | Midterm
 | 10/17/18 | Subsample & aggregate | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
-| 10/22/18 | Language techniques for privacy || TBD
-| 10/24/18 | Language techniques for privacy || TBD
-| 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling
+| 10/22/18 | Language techniques for privacy |TBA | HW5 due, HW6 released
+| 10/24/18 | Language techniques for privacy |TBA | 
+| 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
-| 11/5/18  | Differentially private SGD | Bassily et al.              
+| 11/5/18  | Differentially private SGD | Bassily et al. | HW7 released
 | 11/7/18  | Objective & output perturbation | Chaudhuri et al.       
-| 11/12/18 | Private deep learning | Talwar et al.                    
-| 11/14/18 | Private transfer learning | PATE 1 & 2
+| 11/12/18 | Private deep learning | Talwar et al. | HW7 due, HW8 released
+| 11/14/18 | Private transfer learning | PATE 1 & 2 | Project proposals due (tent.)
 | 11/19/18 | No class (Thanksgiving break)
 | 11/21/18 | No class (Thanksgiving break)
-| 11/26/18 | Building privacy-preserving systems | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber
+| 11/26/18 | Building privacy-preserving systems; Quiz #2 | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber | Quiz, HW8 due
 | 11/28/18 | Open challenges | 
 | 12/3/18  | Project presentations
 | 12/5/18  | Project presentations
