@@ -30,7 +30,7 @@ In addition to learning about the mathematical foundations of differential priva
 ## Resources
 
 - **Homework assignments** will be turned in via Blackboard
-- **Discussions** will take place on the [course Piazza](piazza.com/uvm/fall2018/cs295b)
+- **Discussions** will take place on the [course Piazza](http://piazza.com/uvm/fall2018/cs295b)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 
 ## Textbook & Other References
