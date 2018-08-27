@@ -31,6 +31,7 @@ In addition to learning about the mathematical foundations of differential priva
 
 - **Homework assignments** will be turned in via Blackboard
 - **Discussions** will take place on the course Piazza
+- **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 
 ## Textbook & Other References
 
@@ -91,7 +92,7 @@ More information coming soon.
 
 | Date     | Topics        | Reference | Notes / Homework |
 | --------:|---------------|---------|-------|-------|
-| [8/27/18](slides/lec1.pdf)  | Intro to data analytics & data privacy | Nissim, sec. 1&2 |
+| 8/27/18  | Intro to data analytics & data privacy | Nissim, sec. 1&2 |
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
 | 9/5/18   | No class
