@@ -7,7 +7,8 @@ layout: default
 
 ## Announcements
 
-None yet.
+### 8/29/18
+Note that there will be **no class** or office hours next week, 9/3 and 9/5.
 
 ## Course Description
 
