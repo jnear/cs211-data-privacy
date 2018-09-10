@@ -97,9 +97,9 @@ More information coming soon.
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
 | 9/5/18   | No class
-| 9/10/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/) | HW1 released
-| 9/12/18  | K-Anonymity & re-identification |
-| 9/17/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2 | HW1 due, HW2 released
+| 9/10/18  | K-Anonymity & re-identification | | HW1 released
+| 9/12/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2
+| 9/17/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/) | HW1 due, HW2 released
 | 9/19/18  | Sensitivity and the Laplace mechanism | D&R, sec. 3.3 |
 | 9/24/18  | Composition & post-processing | D&R, sec. 3.5, 3.5.1 | HW2 due, HW3 released
 | 9/26/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A
