@@ -7,6 +7,9 @@ layout: default
 
 ## Announcements
 
+### 9/10/18
+Homework 1 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb). It is due on 9/17/18 at 11:59pm.
+
 ### 8/29/18
 Note that there will be **no class** or office hours next week, 9/3 and 9/5.
 
@@ -71,6 +74,8 @@ This course will use Python for examples and for programming assignments. Studen
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb)
+
 ### Late Work
 
 Homework assignments may be turned in late for a penalty of 10% per day after the deadline. Homework more than 10 days late will not be accepted.
@@ -97,7 +102,7 @@ More information coming soon.
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
 | 9/5/18   | No class
-| 9/10/18  | K-Anonymity & re-identification | | HW1 released
+| 9/10/18  | K-Anonymity & re-identification | | [HW1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) released
 | 9/12/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2
 | 9/17/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/) | HW1 due, HW2 released
 | 9/19/18  | Sensitivity and the Laplace mechanism | D&R, sec. 3.3 |
