@@ -50,7 +50,7 @@ their practical implications by building their own systems that perform privacy-
 
 ## Resources
 
-- **Homework assignments** will be turned in via Blackboard
+- **Homework assignments** will be turned in via [Blackboard](https://bb.uvm.edu/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_123457_1&handle=cp_announcements&mode=cpview)
 - **Discussions** will take place on the [course Piazza](http://piazza.com/uvm/fall2018/cs295b)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 
@@ -137,17 +137,17 @@ More information coming soon.
 | 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
 | 9/3/18   | No class (Labor day)
 | 9/5/18   | No class
-| 9/10/18  | K-Anonymity & re-identification | | [HW1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) released
-| 9/12/18  | Intro & survey: differential privacy | Nissim, sec. 3&4; D&R, ch. 2
-| 9/17/18  | De-identification & re-identification | [Tockar](https://research.neustar.biz/author/atockar/) | HW1 due, HW2 released
-| 9/19/18  | Sensitivity and the Laplace mechanism | D&R, sec. 3.3 |
-| 9/24/18  | Composition & post-processing | D&R, sec. 3.5, 3.5.1 | HW2 due, HW3 released
-| 9/26/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A
-| 10/1/18  | Advanced composition | D&R, sec. 3.5.2 | HW3 due, HW4 released
-| 10/3/18  | Exponential mechanism; Quiz #1 | D&R, sec. 3.4 | Quiz
+| 9/10/18  | K-Anonymity & re-identification | TBA | [HW1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) released
+| 9/12/18  | Differential privacy: sensitivity & Laplace mech. | Nissim, sec. 3&4; D&R, ch. 2; D&R, sec. 3.3 
+| 9/17/18  | Composition & privacy budget | D&R, sec. 3.5, 3.5.1 | HW1 due, HW2 released
+| 9/19/18  | Post-processing & basic algorithm design | D&R, sec. 3.5, 3.5.1 |
+| 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, HW3 released
+| 9/26/18  | Advanced composition | D&R, sec. 3.5.2
+| 10/1/18  | Exponential mechanism | HW3 due, HW4 released
+| 10/3/18  | Local sensitivity; Quiz #1 | D&R, sec. 3.4 | Quiz
 | 10/8/18  | No class (Fall break)
-| 10/10/18 | Local sensitivity & smooth sensitivity | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, HW5 released
-| 10/15/18 | Midterm | | Midterm
+| 10/10/18 | Smooth sensitivity, medians, and joins | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, HW5 released
+| 10/15/18 | Midterm | . | Midterm
 | 10/17/18 | Subsample & aggregate | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
 | 10/22/18 | Language techniques for privacy |TBA | HW5 due, HW6 released
 | 10/24/18 | Language techniques for privacy |TBA | 
@@ -160,6 +160,6 @@ More information coming soon.
 | 11/19/18 | No class (Thanksgiving break)
 | 11/21/18 | No class (Thanksgiving break)
 | 11/26/18 | Building privacy-preserving systems; Quiz #2 | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber | Quiz, HW8 due
-| 11/28/18 | Open challenges | 
+| 11/28/18 | Privacy attacks & open challenges | [Tockar](https://research.neustar.biz/author/atockar/)
 | 12/3/18  | Project presentations
 | 12/5/18  | Project presentations
