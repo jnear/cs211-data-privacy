@@ -71,6 +71,10 @@ We will also use the following non-technical primer on differential privacy, als
 
 In addition to these, we will reference a number of academic papers throughout the semester (especially for the section on privacy-preserving machine learning).
 
+### Links and Helpful Resources
+
+ - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
+
 ## Policies
 
 ### Grading
@@ -163,3 +167,4 @@ More information coming soon.
 | 11/28/18 | Privacy attacks & open challenges | [Tockar](https://research.neustar.biz/author/atockar/)
 | 12/3/18  | Project presentations
 | 12/5/18  | Project presentations
+
