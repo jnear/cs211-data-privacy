@@ -7,6 +7,9 @@ layout: default
 
 ## Announcements
 
+### 9/17/18
+Homework 2 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb). It is due on 9/24/18 at 11:59pm.
+
 ### 9/10/18
 Homework 1 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb). It is due on 9/17/18 at 11:59pm.
 
@@ -143,7 +146,7 @@ More information coming soon.
 | 9/5/18   | No class
 | 9/10/18  | K-Anonymity & re-identification | TBA | [HW1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) released
 | 9/12/18  | Differential privacy: sensitivity & Laplace mech. | Nissim, sec. 3&4; D&R, ch. 2; D&R, sec. 3.3 
-| 9/17/18  | Composition & privacy budget | D&R, sec. 3.5, 3.5.1 | HW1 due, HW2 released
+| 9/17/18  | Composition & privacy budget | D&R, sec. 3.5, 3.5.1 | HW1 due, [HW2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) released
 | 9/19/18  | Post-processing & basic algorithm design | D&R, sec. 3.5, 3.5.1 |
 | 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, HW3 released
 | 9/26/18  | Advanced composition | D&R, sec. 3.5.2
