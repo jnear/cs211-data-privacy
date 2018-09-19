@@ -8,6 +8,9 @@ layout: default
 ## Announcements
 
 ### 9/17/18
+I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20%233.ipynb) from today's class.
+
+### 9/17/18
 Homework 2 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb). It is due on 9/24/18 at 11:59pm.
 
 ### 9/10/18
@@ -105,6 +108,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb)
  - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb)
 
 ### Late Work
