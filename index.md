@@ -7,6 +7,10 @@ layout: default
 
 ## Announcements
 
+### 9/24/18
+
+Homework 3 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb). It is due on 10/1/18 at 11:59pm.
+
 ### 9/17/18
 I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20%233.ipynb) from today's class.
 
@@ -108,6 +112,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb)
  - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb)
  - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb)
 
@@ -152,7 +157,7 @@ More information coming soon.
 | 9/12/18  | Differential privacy: sensitivity & Laplace mech. | Nissim, sec. 3&4; D&R, ch. 2; D&R, sec. 3.3 
 | 9/17/18  | Composition & privacy budget | D&R, sec. 3.5, 3.5.1 | HW1 due, [HW2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) released
 | 9/19/18  | Post-processing & basic algorithm design | D&R, sec. 3.5, 3.5.1 |
-| 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, HW3 released
+| 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, [HW3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) released
 | 9/26/18  | Advanced composition | D&R, sec. 3.5.2
 | 10/1/18  | Exponential mechanism | | HW3 due, HW4 released
 | 10/3/18  | Local sensitivity; Quiz #1 | D&R, sec. 3.4 | Quiz
