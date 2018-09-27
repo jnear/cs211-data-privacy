@@ -7,8 +7,10 @@ layout: default
 
 ## Announcements
 
-### 9/24/18
+### 9/26/18
+I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20contingency%20tables.ipynb) discussing sensitivities and contingency tables from yesterday's lecture. 
 
+### 9/24/18
 Homework 3 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb). It is due on 10/1/18 at 11:59pm.
 
 ### 9/17/18
