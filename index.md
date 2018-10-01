@@ -7,6 +7,9 @@ layout: default
 
 ## Announcements
 
+### 10/1/18
+I've posted a [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that we have seen so far in the semester. Feel free to print this sheet for use during the quiz on Wednesday (or write your own, or write on the back of this one).
+
 ### 9/26/18
 I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20contingency%20tables.ipynb) discussing sensitivities and contingency tables from yesterday's lecture. 
 
