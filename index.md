@@ -91,6 +91,7 @@ In addition to these, we will reference a number of academic papers throughout t
 
 ### Links and Helpful Resources
 
+ - [Definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
 
 ## Policies
@@ -120,6 +121,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb)
  - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb)
  - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb)
  - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb)
@@ -167,7 +169,7 @@ More information coming soon.
 | 9/19/18  | Post-processing & basic algorithm design | D&R, sec. 3.5, 3.5.1 |
 | 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, [HW3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) released
 | 9/26/18  | Advanced composition | D&R, sec. 3.5.2
-| 10/1/18  | Exponential mechanism | | HW3 due, HW4 released
+| 10/1/18  | Exponential mechanism | | HW3 due, [HW4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) released
 | 10/3/18  | Local sensitivity; Quiz #1 | D&R, sec. 3.4 | Quiz
 | 10/8/18  | No class (Fall break)
 | 10/10/18 | Smooth sensitivity, medians, and joins | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, HW5 released
