@@ -7,29 +7,21 @@ layout: default
 
 ## Announcements
 
-### 9/24/18
-Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
+- **9/24/18**: Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
 
-### 10/1/18
-I've posted a [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that we have seen so far in the semester. Feel free to print this sheet for use during the quiz on Wednesday (or write your own, or write on the back of this one).
+- **10/1/18**: I've posted a [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that we have seen so far in the semester. Feel free to print this sheet for use during the quiz on Wednesday (or write your own, or write on the back of this one).
 
-### 9/26/18
-I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20contingency%20tables.ipynb) discussing sensitivities and contingency tables from yesterday's lecture. 
+- **9/26/18**: I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20contingency%20tables.ipynb) discussing sensitivities and contingency tables from yesterday's lecture. 
 
-### 9/24/18
-Homework 3 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb). It is due on 10/1/18 at 11:59pm.
+- **9/24/18**: Homework 3 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb). It is due on 10/1/18 at 11:59pm.
 
-### 9/17/18
-I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20%233.ipynb) from today's class.
+- **9/17/18**: I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20%233.ipynb) from today's class.
 
-### 9/17/18
-Homework 2 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb). It is due on 9/24/18 at 11:59pm.
+- **9/17/18**: Homework 2 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb). It is due on 9/24/18 at 11:59pm.
 
-### 9/10/18
-Homework 1 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb). It is due on 9/17/18 at 11:59pm.
+- **9/10/18**: Homework 1 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb). It is due on 9/17/18 at 11:59pm.
 
-### 8/29/18
-Note that there will be **no class** or office hours next week, 9/3 and 9/5.
+- **8/29/18**: Note that there will be **no class** or office hours next week, 9/3 and 9/5.
 
 ## Course Description
 
