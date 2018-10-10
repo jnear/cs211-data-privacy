@@ -7,7 +7,9 @@ layout: default
 
 ## Announcements
 
-- **9/24/18**: Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
+- **10/10/18**: Homework 5 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb). It is due on Monday, 10/22/18 at 11:59pm (*note*: you have a week and a half for this assignment).
+
+- **10/1/18**: Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
 
 - **10/1/18**: I've posted a [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that we have seen so far in the semester. Feel free to print this sheet for use during the quiz on Wednesday (or write your own, or write on the back of this one).
 
@@ -113,6 +115,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb)
  - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb)
  - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb)
  - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb)
@@ -164,9 +167,9 @@ More information coming soon.
 | 10/1/18  | Exponential mechanism | | HW3 due, [HW4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) released
 | 10/3/18  | Local sensitivity; Quiz #1 | D&R, sec. 3.4 | Quiz
 | 10/8/18  | No class (Fall break)
-| 10/10/18 | Smooth sensitivity, medians, and joins | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, HW5 released
+| 10/10/18 | PTR, Smooth sensitivity, Sample & aggregate | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, [HW5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) released
 | 10/15/18 | Midterm | . | Midterm
-| 10/17/18 | Subsample & aggregate | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
+| 10/17/18 | Sparse Vector Technique | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
 | 10/22/18 | Language techniques for privacy |TBA | HW5 due, HW6 released
 | 10/24/18 | Language techniques for privacy |TBA | 
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
