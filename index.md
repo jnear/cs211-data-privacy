@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **10/11/18**: I've updated the [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) in preparation for the midterm exam on Monday.
+
 - **10/10/18**: Homework 5 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb). It is due on Monday, 10/22/18 at 11:59pm (*note*: you have a week and a half for this assignment).
 
 - **10/1/18**: Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
