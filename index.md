@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **10/19/18**: There will be **no class** next week (10/22 and 10/24). HW5 remains due on 10/22, and HW6 will be released on 10/22.
+
 - **10/12/18**: I've posted a [correction to the definition of local sensitivity at distance *k*](https://github.com/jnear/cs295-data-privacy/blob/master/slides/local-sensitivity-correction.pdf). The definition I gave in class was not correct. The corrected definition will be important for your ability to complete Homework 5 - please send me an email if you have any questions about the corrected version.
 
 - **10/11/18**: I've updated the [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) in preparation for the midterm exam on Monday.
@@ -174,8 +176,8 @@ More information coming soon.
 | 10/10/18 | PTR, Smooth sensitivity, Sample & aggregate | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, [HW5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) released
 | 10/15/18 | Midterm | . | Midterm
 | 10/17/18 | Sparse Vector Technique | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
-| 10/22/18 | Language techniques for privacy |TBA | HW5 due, HW6 released
-| 10/24/18 | Language techniques for privacy |TBA | 
+| 10/22/18 | No class | | HW5 due, HW6 released
+| 10/24/18 | No class | | 
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
 | 11/5/18  | Differentially private SGD | Bassily et al. | HW7 released
