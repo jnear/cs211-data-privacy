@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **10/22/18**: Homework 6 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). It is due on Monday, 10/29/18 at 11:59pm. **Office hours**: due to travel this week, office hours are *rescheduled* for Friday, 10/26, from 1-3pm. If you would like to meet but can't make it during that time, please email me.
+
 - **10/19/18**: There will be **no class** next week (10/22 and 10/24). HW5 remains due on 10/22, and HW6 will be released on 10/22.
 
 - **10/12/18**: I've posted a [correction to the definition of local sensitivity at distance *k*](https://github.com/jnear/cs295-data-privacy/blob/master/slides/local-sensitivity-correction.pdf). The definition I gave in class was not correct. The corrected definition will be important for your ability to complete Homework 5 - please send me an email if you have any questions about the corrected version.
@@ -121,6 +123,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb)
  - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb)
  - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb)
  - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb)
@@ -176,7 +179,7 @@ More information coming soon.
 | 10/10/18 | PTR, Smooth sensitivity, Sample & aggregate | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, [HW5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) released
 | 10/15/18 | Midterm | . | Midterm
 | 10/17/18 | Sparse Vector Technique | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
-| 10/22/18 | No class | | HW5 due, HW6 released
+| 10/22/18 | No class | | HW5 due, [HW6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb) released
 | 10/24/18 | No class | | 
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
