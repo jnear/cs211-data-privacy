@@ -7,7 +7,9 @@ layout: default
 
 ## Announcements
 
-- **10/22/18**: Homework 6 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). It is due on Monday, 10/29/18 at 11:59pm. **Office hours**: due to travel this week, office hours are *rescheduled* for Friday, 10/26, from 1-3pm. If you would like to meet but can't make it during that time, please email me.
+- **10/24/18**: Office hours this week will be held on Friday, 10/26, from noon-2pm (instead of on Thursday).
+
+- **10/22/18**: Homework 6 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). It is due on Monday, 10/29/18 at 11:59pm. **Office hours**: due to travel this week, office hours are *rescheduled* for Friday, 10/26, from (updated 10/24/18) noon-2pm. If you would like to meet but can't make it during that time, please email me.
 
 - **10/19/18**: There will be **no class** next week (10/22 and 10/24). HW5 remains due on 10/22, and HW6 will be released on 10/22.
 
