@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **10/29/18**: I have corrected the mistake in the output for Question 3 in [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). The output should be 500, 5, and 0.05.
+
 - **10/24/18**: Office hours this week will be held on Friday, 10/26, from noon-2pm (instead of on Thursday).
 
 - **10/22/18**: Homework 6 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). It is due on Monday, 10/29/18 at 11:59pm. **Office hours**: due to travel this week, office hours are *rescheduled* for Friday, 10/26, from (updated 10/24/18) noon-2pm. If you would like to meet but can't make it during that time, please email me.
