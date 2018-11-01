@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **11/1/18**: I've uploaded a [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb) with an introduction to differentially private machine learning.
+
 - **10/29/18**: I have corrected the mistake in the output for Question 3 in [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). The output should be 500, 5, and 0.05.
 
 - **10/24/18**: Office hours this week will be held on Friday, 10/26, from noon-2pm (instead of on Thursday).
@@ -99,6 +101,7 @@ In addition to these, we will reference a number of academic papers throughout t
 
  - [Definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
+ - [Intro to differentially private machine learning](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
 
 ## Policies
 
