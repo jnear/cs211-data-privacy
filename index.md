@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **11/5/18**: I have uploaded complete [final project information](https://jnear.github.io/cs295-data-privacy/projects) with examples. We'll go over this in class today. I have also canceled Homework 8 to allow more time for final projects.
+
 - **11/1/18**: I've uploaded a [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb) with an introduction to differentially private machine learning.
 
 - **10/29/18**: I have corrected the mistake in the output for Question 3 in [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). The output should be 500, 5, and 0.05.
@@ -164,7 +166,7 @@ The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
 by implementing a practical system to perform privacy-preserving analysis of realistic data.
 
-More information coming soon.
+Complete information: [final project information](https://jnear.github.io/cs295-data-privacy/projects).
 
 ## Schedule
 
@@ -192,11 +194,11 @@ More information coming soon.
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
 | 11/5/18  | Differentially private SGD | Bassily et al. | HW7 released
 | 11/7/18  | Objective & output perturbation | Chaudhuri et al.       
-| 11/12/18 | Private deep learning | Talwar et al. | HW7 due, HW8 released
+| 11/12/18 | Private deep learning | Talwar et al. | HW7 due
 | 11/14/18 | Private transfer learning | PATE 1 & 2 | Project proposals due (tent.)
 | 11/19/18 | No class (Thanksgiving break)
 | 11/21/18 | No class (Thanksgiving break)
-| 11/26/18 | Building privacy-preserving systems; Quiz #2 | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber | Quiz, HW8 due
+| 11/26/18 | Building privacy-preserving systems; Quiz #2 | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber | Quiz
 | 11/28/18 | Privacy attacks & open challenges | [Tockar](https://research.neustar.biz/author/atockar/)
 | 12/3/18  | Project presentations
 | 12/5/18  | Project presentations
