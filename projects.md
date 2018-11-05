@@ -81,6 +81,10 @@ I believe submissions for this round end on November 30, but I'm waiting for cla
 
 If you're not interested in entering the NIST challenge above, NIST is also looking for *reviewers* for this challenge (you can't enter and review simultaneously). There is no money for this option, but it's something you could list on a resume and would provide an interesting look at the other entries. Requirements are simply to join a Google Hangouts video call 3 or 4 times in early December, and provide your opinion on whether or not the entries actually satisfy differential privacy.
 
+### CS Fair
+
+I *highly encourage* everyone to submit their projects to the [CS Fair](https://csfair.w3.uvm.edu/). The materials you prepare for the course should be all you need for a compelling entry, and there are cash prizes for the first three places. If you register by November 9, you get a free t-shirt!
+
 ### Projects Overlapping with CS295A: Software Verification
 
 If you're also in David Darais's CS295A: Software Verification, I *highly encourage* projects that satisfy the requirements for both classes. It's very likely that you can submit the same writeup and presentation for both courses (though the bar may be a little higher). If you're interested in this, please let me know and we'll discuss it. Some interesting ideas include:
