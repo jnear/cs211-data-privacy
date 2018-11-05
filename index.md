@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **11/5/18**: Homework 7 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb). It is due on Monday, 11/12/18 at 11:59pm.
+
 - **11/5/18**: I have uploaded complete [final project information](https://jnear.github.io/cs295-data-privacy/projects) with examples. We'll go over this in class today. I have also canceled Homework 8 to allow more time for final projects.
 
 - **11/1/18**: I've uploaded a [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb) with an introduction to differentially private machine learning.
@@ -133,6 +135,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
+ - [Homework 7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb)
  - [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb)
  - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb)
  - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb)
@@ -193,7 +196,7 @@ Complete information: [final project information](https://jnear.github.io/cs295-
 | 10/24/18 | No class | | 
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
-| 11/5/18  | Differentially private SGD | Bassily et al. | HW7 released
+| 11/5/18  | Differentially private SGD | Bassily et al. | [HW7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb) released
 | 11/7/18  | Objective & output perturbation | Chaudhuri et al.       
 | 11/12/18 | Private deep learning | Talwar et al. | HW7 due
 | 11/14/18 | Private transfer learning | PATE 1 & 2 | Project proposals due (tent.)
