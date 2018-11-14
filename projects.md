@@ -47,6 +47,15 @@ The final project is worth 20% of your final grade. The schedule for final proje
   - The extent to which your presentation covers the material in your writeup
   - The ability of audience members to follow your presentation and understand the key contribution of your project
 
+As a paper reviewer, I try to answer the following questions. Your writeup should seek to address each one clearly.
+- Is the paper answering the “right” question?
+- Does it make reasonable assumptions?
+- How novel is the solution?
+- Is the solution technically sound?
+- Is the solution difficult or easy?
+- How well is the solution evaluated?
+- Expected impact (hard to guess)
+- Writing level: is the paper clearly written? Is it self-contained?
 
 ## Examples & Opportunities
 
