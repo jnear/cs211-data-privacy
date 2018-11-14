@@ -7,6 +7,7 @@
 The goal of the final project is for you to build a complete system that accomplishes a realistic task while ensuring differential privacy. Final projects will be completed in groups of 1-3. The deliverables for the project will be as follows:
 
 - A *project proposal* of 1 page or less, describing:
+  - Who is in your group
   - What problem you're trying to solve
   - A brief description of the approach you plan to use, including references to the underlying techniques you plan to leverage (e.g. privacy definitions, basic mechanisms, and existing algorithms)
   - A brief description of how your idea relates or compares to previous solutions to the same problem
@@ -25,12 +26,12 @@ The goal of the final project is for you to build a complete system that accompl
 
 The final project is worth 20% of your final grade. The schedule for final project deliverables, and the contribution of each one to the grade you receive for the final project, are as follows:
 
-| Deliverable           | Due Date      | Grade Percent |
-| ---------------------:| ------------- | ------------- |
-| Project Proposal      | 11/14/18      | 10%           |
-| Implementation        | 12/3/18       | 20%           |
-| Project Writeup       | 12/5/18       | 40%           |
-| Project Presentations | 12/5/18       | 30%           |
+| Deliverable           | Due Date            | Grade Percent | Turn In  |
+| ---------------------:| ------------------- | ------------- | -------- |
+| Project Proposal      | 11/16/18 at 11:59pm | 10%           | By email |
+| Implementation        | 12/3/18 at 11:59pm  | 20%           | By email |
+| Project Writeup       | 12/5/18 at 11:59pm  | 40%           | By email |
+| Project Presentations | 12/5/18 in class    | 30%           | In class |
 
 - After the initial proposal phase, I'll respond with feedback and suggestions by email on Monday, 11/19.
 - Each group member will receive the same project grade.
@@ -52,6 +53,8 @@ The final project is worth 20% of your final grade. The schedule for final proje
 You're welcome to work on any project interesting to you, as long as it's related to data privacy. If your idea is very different from the kinds of examples listed below, please email me in advance of the proposal deadline so we can discuss it.
 
 ### Project Ideas
+
+- Use Vincent Bindschaedler's [Synthetic Data Generation Framework](https://vbinds.ch/node/69) to generate synthetic data and enter the NIST challenge.
 
 - Build a system to answer [WikiSQL](https://github.com/salesforce/WikiSQL) queries with differential privacy, and experiment with strategies for improving overall privacy budget behavior for a large workload of queries (e.g. better composition theorems).
 

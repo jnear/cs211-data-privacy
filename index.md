@@ -7,6 +7,11 @@ layout: default
 
 ## Announcements
 
+- **11/13/18**: Three announcements:
+  1. I've delayed the due date for **project proposals** to **Friday, November 16** to give you a bit more time. I also updated the [final project information](https://jnear.github.io/cs295-data-privacy/projects) with an important detail: your proposal should list your group members. Please e-mail your proposal to me by **11:59 on Friday, November 16**.
+  2. I have uploaded [the notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/NIST%20Challenge%20Examples.ipynb) we saw in class on Monday describing simple ways to generate synthetic data.
+  3. The [NIST Differential Privacy Synthetic Data Challenge](http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17319&pm=15124) has a special "progressive prize" of $1000 awarded to the top 4 teams on the leaderboard as of **23:55 EDT on November 15**. As of this writing, there are only 3 entries, and one has a *negative* score. If you have any interest in the challenge, I suggest registering and trying to upload *something* by the deadline - even the 1-way marginal approach in the notebook above could possibly do well enough to win money!
+
 - **11/5/18**: Homework 7 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb). It is due on Monday, 11/12/18 at 11:59pm.
 
 - **11/5/18**: I have uploaded complete [final project information](https://jnear.github.io/cs295-data-privacy/projects) with examples. We'll go over this in class today. I have also canceled Homework 8 to allow more time for final projects.
@@ -107,6 +112,7 @@ In addition to these, we will reference a number of academic papers throughout t
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
  - [Intro to differentially private machine learning](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
  - [Variants of differential privacy](https://github.com/jnear/cs295-data-privacy/blob/master/slides/privacy_definitions.pdf)
+ - Vincent Bindschaedler's [Synthetic Data Generation Framework](https://vbinds.ch/node/69)
 
 ## Policies
 
