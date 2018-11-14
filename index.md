@@ -203,13 +203,13 @@ Complete information: [final project information](https://jnear.github.io/cs295-
 | 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
 | 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
 | 11/5/18  | Differentially private SGD | Bassily et al. | [HW7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb) released
-| 11/7/18  | Objective & output perturbation | Chaudhuri et al.       
-| 11/12/18 | Private deep learning | Talwar et al. | HW7 due
-| 11/14/18 | Private transfer learning | PATE 1 & 2 | Project proposals due (tent.)
+| 11/7/18  | Objective & output perturbation, deep learning | Chaudhuri et al.       
+| 11/12/18 | Synthetic data | Talwar et al. | HW7 due
+| 11/14/18 | Synthetic data; local differential privacy | | 
 | 11/19/18 | No class (Thanksgiving break)
 | 11/21/18 | No class (Thanksgiving break)
-| 11/26/18 | Building privacy-preserving systems; Quiz #2 | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber | Quiz
-| 11/28/18 | Privacy attacks & open challenges | [Tockar](https://research.neustar.biz/author/atockar/)
+| 11/26/18 | Building privacy-preserving systems | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber |
+| 11/28/18 | Privacy attacks & open challenges; Quiz #2 | [Tockar](https://research.neustar.biz/author/atockar/) | Quiz
 | 12/3/18  | Project presentations
 | 12/5/18  | Project presentations
 
