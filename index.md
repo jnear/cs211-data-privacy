@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+- **11/5/18**: I've updated the [project due dates](https://jnear.github.io/cs295-data-privacy/projects): the writeup and implementation are now due next **Friday, December 7**. I have also posted the [slides on systems for differential privacy](https://github.com/jnear/cs295-data-privacy/blob/master/slides/DP-Systems-slides.pdf) from Monday's lecture.
+
 - **11/13/18**: Three announcements:
   1. I've delayed the due date for **project proposals** to **Friday, November 16** to give you a bit more time. I also updated the [final project information](https://jnear.github.io/cs295-data-privacy/projects) with an important detail: your proposal should list your group members. Please e-mail your proposal to me by **11:59 on Friday, November 16**.
   2. I have uploaded [the notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/NIST%20Challenge%20Examples.ipynb) we saw in class on Monday describing simple ways to generate synthetic data.

@@ -29,11 +29,11 @@ The final project is worth 20% of your final grade. The schedule for final proje
 | Deliverable           | Due Date            | Grade Percent | Turn In  |
 | ---------------------:| ------------------- | ------------- | -------- |
 | Project Proposal      | 11/16/18 at 11:59pm | 10%           | By email |
-| Implementation        | 12/3/18 at 11:59pm  | 20%           | By email |
-| Project Writeup       | 12/5/18 at 11:59pm  | 40%           | By email |
+| Implementation        | 12/7/18 at 11:59pm  | 20%           | By email |
+| Project Writeup       | 12/7/18 at 11:59pm  | 40%           | By email |
 | Project Presentations | 12/5/18 in class    | 30%           | In class |
 
-- After the initial proposal phase, I'll respond with feedback and suggestions by email on Monday, 11/19.
+- After the initial proposal phase, I'll respond with feedback and suggestions by email on Tuesday, 11/27.
 - Each group member will receive the same project grade.
 - The proposal grade will focus on how likely your proposed solution is to solve the problem. Most proposals are likely to receive full credit (i.e. don't worry about making it perfect).
 - The implementation grade will focus on whether or not your code actually satisfies differential privacy; your implementation does not need to be particularly efficient or polished.
