@@ -1,5 +1,7 @@
 # Final Project Information
 
+**NOTE:** This information is from Fall 2018, and is likely to change for Fall 2019.
+
 ## Schedule & Requirements
 
 ### Requirements

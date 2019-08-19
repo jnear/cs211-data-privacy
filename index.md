@@ -1,54 +1,13 @@
 ---
-title: CS 295B Data Privacy
+title: CS 295 Data Privacy
 layout: default
 ---
 
-# UVM CS 295B: Data Privacy (Fall 2018)
+# UVM CS 295: Data Privacy (Fall 2019)
 
 ## Announcements
 
-- **11/5/18**: I've updated the [project due dates](https://jnear.github.io/cs295-data-privacy/projects): the writeup and implementation are now due next **Friday, December 7**. I have also posted the [slides on systems for differential privacy](https://github.com/jnear/cs295-data-privacy/blob/master/slides/DP-Systems-slides.pdf) from Monday's lecture.
-
-- **11/13/18**: Three announcements:
-  1. I've delayed the due date for **project proposals** to **Friday, November 16** to give you a bit more time. I also updated the [final project information](https://jnear.github.io/cs295-data-privacy/projects) with an important detail: your proposal should list your group members. Please e-mail your proposal to me by **11:59 on Friday, November 16**.
-  2. I have uploaded [the notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/NIST%20Challenge%20Examples.ipynb) we saw in class on Monday describing simple ways to generate synthetic data.
-  3. The [NIST Differential Privacy Synthetic Data Challenge](http://community.topcoder.com/longcontest/?module=ViewProblemStatement&rd=17319&pm=15124) has a special "progressive prize" of $1000 awarded to the top 4 teams on the leaderboard as of **23:55 EDT on November 15**. As of this writing, there are only 3 entries, and one has a *negative* score. If you have any interest in the challenge, I suggest registering and trying to upload *something* by the deadline - even the 1-way marginal approach in the notebook above could possibly do well enough to win money!
-
-- **11/5/18**: Homework 7 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb). It is due on Monday, 11/12/18 at 11:59pm.
-
-- **11/5/18**: I have uploaded complete [final project information](https://jnear.github.io/cs295-data-privacy/projects) with examples. We'll go over this in class today. I have also canceled Homework 8 to allow more time for final projects.
-
-- **11/1/18**: I've uploaded a [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb) with an introduction to differentially private machine learning.
-
-- **10/29/18**: I have corrected the mistake in the output for Question 3 in [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). The output should be 500, 5, and 0.05.
-
-- **10/24/18**: Office hours this week will be held on Friday, 10/26, from noon-2pm (instead of on Thursday).
-
-- **10/22/18**: Homework 6 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb). It is due on Monday, 10/29/18 at 11:59pm. **Office hours**: due to travel this week, office hours are *rescheduled* for Friday, 10/26, from (updated 10/24/18) noon-2pm. If you would like to meet but can't make it during that time, please email me.
-
-- **10/19/18**: There will be **no class** next week (10/22 and 10/24). HW5 remains due on 10/22, and HW6 will be released on 10/22.
-
-- **10/12/18**: I've posted a [correction to the definition of local sensitivity at distance *k*](https://github.com/jnear/cs295-data-privacy/blob/master/slides/local-sensitivity-correction.pdf). The definition I gave in class was not correct. The corrected definition will be important for your ability to complete Homework 5 - please send me an email if you have any questions about the corrected version.
-
-- **10/11/18**: I've updated the [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) in preparation for the midterm exam on Monday.
-
-- **10/10/18**: Homework 5 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb). It is due on Monday, 10/22/18 at 11:59pm (*note*: you have a week and a half for this assignment).
-
-- **10/1/18**: Homework 4 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb). It is due on **Wednesday**, 10/10/18 at 11:59pm (*note*: you have a week and a half for this assignment).
-
-- **10/1/18**: I've posted a [sheet of definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that we have seen so far in the semester. Feel free to print this sheet for use during the quiz on Wednesday (or write your own, or write on the back of this one).
-
-- **9/26/18**: I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20contingency%20tables.ipynb) discussing sensitivities and contingency tables from yesterday's lecture. 
-
-- **9/24/18**: Homework 3 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb). It is due on 10/1/18 at 11:59pm.
-
-- **9/17/18**: I've posted the [Python notebook](https://github.com/jnear/cs295-data-privacy/blob/master/slides/In-class%20%233.ipynb) from today's class.
-
-- **9/17/18**: Homework 2 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb). It is due on 9/24/18 at 11:59pm.
-
-- **9/10/18**: Homework 1 [has been posted](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb). It is due on 9/17/18 at 11:59pm.
-
-- **8/29/18**: Note that there will be **no class** or office hours next week, 9/3 and 9/5.
+None yet.
 
 ## Course Description
 
@@ -81,14 +40,14 @@ their practical implications by building their own systems that perform privacy-
 
 ## Administrative
 
-- **Lecture**: Monday and Wednesday, 5:05pm - 6:20pm, Votey 209
+- **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, Votey 254
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: Thursdays, 2:00pm - 4:00pm, Votey 317
+- **Office hours**: Thursdays, 2:00pm - 4:00pm, Innovation E458
 
 ## Resources
 
-- **Homework assignments** will be turned in via [Blackboard](https://bb.uvm.edu/webapps/blackboard/execute/announcement?method=search&context=course&course_id=_123457_1&handle=cp_announcements&mode=cpview)
-- **Discussions** will take place on the [course Piazza](http://piazza.com/uvm/fall2018/cs295b)
+- **Homework assignments** will be turned in via Blackboard (link TBA)
+- **Discussions** will take place on the course Piazza (link TBA)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 
 ## Textbook & Other References
@@ -123,13 +82,12 @@ In addition to these, we will reference a number of academic papers throughout t
 Your grade for the course will be determined as follows:
 
 - 8 homework assignments (5% each; 40% total)
-- 2 in-class quizzes (10% each; 20% total)
-- midterm exam (20%)
+- 2 in-class exams (20% each; 40% total)
 - final project (20%)
 
 ### Exams & Quizzes
 
-There will be two quizzes during class on October 3 and November 26, and a midterm exam during class on October 15.
+There will be two exams during class on October 11 and November 22.
 You will be allowed one physical page (8 1/2" x 11") of notes for each exam.
 There is no final exam, and this course will conclude before the University's exam period.
 
@@ -143,13 +101,7 @@ since it also installs the other libraries we will use in the course.
 
 Homework will be turned in via Blackboard.
 
- - [Homework 7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb)
- - [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb)
- - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb)
- - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb)
- - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb)
- - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb)
- - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb)
+ - (homeworks TBA)
 
 ### Late Work
 
@@ -178,40 +130,42 @@ The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
 by implementing a practical system to perform privacy-preserving analysis of realistic data.
 
-Complete information: [final project information](https://jnear.github.io/cs295-data-privacy/projects).
+Complete information: TBA.
 
 ## Schedule
 
-| Date     | Topics        | Reference | Notes / Homework |
-| --------:| ------------- | --------- | ---------------- |
-| 8/27/18  | Intro to data analytics & data privacy | Nissim, sec. 1&2 |
-| 8/29/18  | Survey of privacy techniques | D&R, ch. 1 |
-| 9/3/18   | No class (Labor day)
-| 9/5/18   | No class
-| 9/10/18  | K-Anonymity & re-identification | TBA | [HW1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) released
-| 9/12/18  | Differential privacy: sensitivity & Laplace mech. | Nissim, sec. 3&4; D&R, ch. 2; D&R, sec. 3.3 
-| 9/17/18  | Composition & privacy budget | D&R, sec. 3.5, 3.5.1 | HW1 due, [HW2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) released
-| 9/19/18  | Post-processing & basic algorithm design | D&R, sec. 3.5, 3.5.1 |
-| 9/24/18  | Approximate differential privacy & the Gaussian mechanism | D&R, sec. 3.5.2, appendix A | HW2 due, [HW3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) released
-| 9/26/18  | Advanced composition | D&R, sec. 3.5.2
-| 10/1/18  | Exponential mechanism | | HW3 due, [HW4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) released
-| 10/3/18  | Local sensitivity; Quiz #1 | D&R, sec. 3.4 | Quiz
-| 10/8/18  | No class (Fall break)
-| 10/10/18 | PTR, Smooth sensitivity, Sample & aggregate | [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 1-3 | HW4 due, [HW5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) released
-| 10/15/18 | Midterm | . | Midterm
-| 10/17/18 | Sparse Vector Technique | D&R, sec. 7.1; [NSRS07](http://www.cse.psu.edu/~ads22/pubs/NRS07/NRS07-full-draft-v1.pdf), sec. 4
-| 10/22/18 | No class | | HW5 due, [HW6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb) released
-| 10/24/18 | No class | | 
-| 10/29/18 | Variants of differential privacy | Renyi, zCDP, sampling | HW6 due
-| 10/31/18 | Intro to private machine learning | Chaudhuri et al.     
-| 11/5/18  | Differentially private SGD | Bassily et al. | [HW7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb) released
-| 11/7/18  | Objective & output perturbation, deep learning | Chaudhuri et al.       
-| 11/12/18 | Synthetic data | Talwar et al. | HW7 due
-| 11/14/18 | Synthetic data; local differential privacy | | 
-| 11/19/18 | No class (Thanksgiving break)
-| 11/21/18 | No class (Thanksgiving break)
-| 11/26/18 | Building privacy-preserving systems | PINQ, GUPT, Airavat, RAPPOR, Apple, Uber |
-| 11/28/18 | Privacy attacks & open challenges; Quiz #2 | [Tockar](https://research.neustar.biz/author/atockar/) | Quiz
-| 12/3/18  | Project presentations
-| 12/5/18  | Project presentations
+Note that class will **not** be held on the following dates:
+
+- Monday, Sep. 2 (labor day)
+- Monday, Sep. 9
+- Wednesday, Sep. 11
+- Monday, Oct. 14 (fall recess)
+- Week of Oct. 21 (details TBA)
+- Week of Nov. 25 (Thanksgiving break)
+
+Important dates:
+
+- Exam #1: Friday, October 11
+- Exam #2: Friday, November 22
+- Project presentations: December 4 & 6
+- Final projects due: TBA
+
+
+| Week of...| Topics                                                                               | Reference | Homework (tentative)   |
+| ---------:| ------------------------------------------------------------------------------------ | --------- | ---------------------- |
+| 8/26/19   | Intro to data privacy; de-identification; re-identification                          |           |                        |
+| 9/2/19    | k-Anonymity and l-Diversity (no class Monday)                                        |           | HW1 Released           |
+| 9/9/19    | Intro to differential privacy (no class Monday & Wednesday)                          |           | HW1 Due                |
+| 9/16/19   | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        |           | HW2 Released           |
+| 9/23/19   | Relaxations of DP; Gaussian mech.; advanced composition                              |           | HW2 Due; HW3 Released  |
+| 9/30/19   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    |           | HW3 Due; HW4 Released  |
+| 10/7/19   | Exponential mechanism; sparse vector technique; exam #1                              |           | HW4 Due                |
+| 10/14/19  | Algorithm design; recent variants of differential privacy (no class Monday)          |           | HW5 Released           |
+| 10/21/19  | No class Monday, Wednesday, Friday                                                   |           |                        |
+| 10/28/19  | Privacy-preserving machine learning; differentially private SGD                      |           | HW6 Due; HW7 Released  |
+| 11/4/19   | Differentially private synthetic data                                                |           | HW7 Due; HW8 Released  |
+| 11/11/19  | Local differential privacy                                                           |           | HW8 Due                |
+| 11/18/19  | Privacy in deep learning; practical systems for privacy; exam #2                     |           |                        |
+| 11/25/19  | No class Monday, Wednesday, Friday                                                   |           |                        |
+| 12/2/19   | Open challenges; project presentations                                               |           | Final projects due     |
 
