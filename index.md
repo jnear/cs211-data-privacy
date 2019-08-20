@@ -46,8 +46,8 @@ their practical implications by building their own systems that perform privacy-
 
 ## Resources
 
-- **Homework assignments** will be turned in via Blackboard (link TBA)
-- **Discussions** will take place on the course Piazza (link TBA)
+- **Homework assignments** will be turned in via [Blackboard](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
+- **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 
 ## Textbook & Other References
