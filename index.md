@@ -46,9 +46,10 @@ their practical implications by building their own systems that perform privacy-
 
 ## Resources
 
-- **Homework assignments** will be turned in via [Blackboard](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
+- **Homework assignments** will be turned in via [gradescope](https://www.gradescope.com/)
 - **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
+- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
 
 ## Textbook & Other References
 
@@ -99,7 +100,9 @@ Programming assignments will be distributed and turned in as Jupyter notebooks.
 See [this page](http://jupyter.org/install) for information on installing Jupyter; the Anaconda method is recommended,
 since it also installs the other libraries we will use in the course.
 
-Homework will be turned in via Blackboard.
+Homework will be turned in and graded via gradescope. You should receive an email with a link to activate your account after the semester begins. 
+Complete instructions for assignment submission will be available here with the release of the first homework assignment.
+Please let me know if you have any trouble with gradescope.
 
  - (homeworks TBA)
 
