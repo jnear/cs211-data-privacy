@@ -7,7 +7,7 @@ layout: default
 
 ## Announcements
 
-None yet.
+**9/6/19**: [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) has been posted. It is due on Friday, September 13, at 5:00pm.
 
 ## Course Description
 
@@ -104,7 +104,7 @@ Homework will be turned in and graded via gradescope. You should receive an emai
 Complete instructions for assignment submission will be available here with the release of the first homework assignment.
 Please let me know if you have any trouble with gradescope.
 
- - (homeworks TBA)
+ - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) (due Friday, September 13, 5:00pm)
 
 ### Late Work
 
