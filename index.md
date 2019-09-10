@@ -159,9 +159,9 @@ Important dates:
 
 | Week of...| Topics                                                                               | Reference | Homework (tentative)   |
 | ---------:| ------------------------------------------------------------------------------------ | --------- | ---------------------- |
-| 8/26/19   | Intro to data privacy; de-identification; re-identification                          |           |                        |
-| 9/2/19    | k-Anonymity and l-Diversity (no class Monday)                                        |           | HW1 Released           |
-| 9/9/19    | Intro to differential privacy (no class Monday & Wednesday)                          |           | HW1 Due                |
+| 8/26/19   | Intro to data privacy; de-identification; re-identification                          | [Notes #1](https://github.com/jnear/cs295-data-privacy/blob/master/notes/1%20-%20De-identification%20and%20Re-identification.ipynb)  |                        |
+| 9/2/19    | k-Anonymity and l-Diversity (no class Monday)                                        | [Notes #2](https://github.com/jnear/cs295-data-privacy/blob/master/notes/2%20-%20k-Anonymity.ipynb)  | HW1 Released           |
+| 9/9/19    | Intro to differential privacy (no class Monday & Wednesday)                          | [Notes #3](https://github.com/jnear/cs295-data-privacy/blob/master/notes/3%20-%20Introduction%20to%20Differential%20Privacy.ipynb)  | HW1 Due                |
 | 9/16/19   | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        |           | HW2 Released           |
 | 9/23/19   | Relaxations of DP; Gaussian mech.; advanced composition                              |           | HW2 Due; HW3 Released  |
 | 9/30/19   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    |           | HW3 Due; HW4 Released  |
