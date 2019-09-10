@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+**9/9/19**: I have posted the first three sets of [course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes), which may be helpful in completing the first homework assignment.
+
 **9/6/19**: [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) has been posted. It is due on Friday, September 13, at 5:00pm.
 
 ## Course Description
@@ -46,6 +48,7 @@ their practical implications by building their own systems that perform privacy-
 
 ## Resources
 
+- **Course notes** are available as Python notebooks [here](https://github.com/jnear/cs295-data-privacy/tree/master/notes)
 - **Homework assignments** will be turned in via [gradescope](https://www.gradescope.com/)
 - **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
