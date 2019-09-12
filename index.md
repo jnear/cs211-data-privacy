@@ -49,7 +49,7 @@ their practical implications by building their own systems that perform privacy-
 ## Resources
 
 - **Course notes** are available as Python notebooks [here](https://github.com/jnear/cs295-data-privacy/tree/master/notes)
-- **Homework assignments** will be turned in via [gradescope](https://www.gradescope.com/)
+- **Homework assignments** will be turned in via [Gradescope](https://www.gradescope.com/)
 - **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
@@ -103,9 +103,15 @@ Programming assignments will be distributed and turned in as Jupyter notebooks.
 See [this page](http://jupyter.org/install) for information on installing Jupyter; the Anaconda method is recommended,
 since it also installs the other libraries we will use in the course.
 
-Homework will be turned in and graded via gradescope. You should receive an email with a link to activate your account after the semester begins. 
-Complete instructions for assignment submission will be available here with the release of the first homework assignment.
-Please let me know if you have any trouble with gradescope.
+**Assignment Submission*: Homework will be turned in and graded via Gradescope. You should receive an email with a link to activate your account after the semester begins. If you don't receive such a link, or if you have trouble logging in to Gradescope, let me know.
+
+To submit an assignment:
+
+1. Complete the released Jupyter Notebook by filling in answers to all the questions
+2. Export your Notebook to a Python (.py) file. In the Notebook interface, click on "File" -> "Download as..." -> "Python (.py)"
+3. Log into Gradesceope and submit the exported .py file as your assignment solution
+
+Please let me know if you have any questions about the submission process, or trouble with Gradescope.
 
  - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) (due Friday, September 13, 5:00pm)
 
