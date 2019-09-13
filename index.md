@@ -113,7 +113,7 @@ To submit an assignment:
 
 Please let me know if you have any questions about the submission process, or trouble with Gradescope.
 
- - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) (due Friday, September 13, 5:00pm)
+ - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) (due Tuesday, September 17, 5:00pm)
 
 ### Late Work
 
