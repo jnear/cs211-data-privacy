@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+**9/13/19**: Due to a travel delay, there will be no class today (9/13). I have delayed the submission deadline for Homework 1 to next Tuesday.
+
 **9/9/19**: I have posted the first three sets of [course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes), which may be helpful in completing the first homework assignment.
 
 **9/6/19**: [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) has been posted. It is due on Friday, September 13, at 5:00pm.
