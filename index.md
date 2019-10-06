@@ -59,6 +59,8 @@ their practical implications by building their own systems that perform privacy-
 - **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
 - **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
+- **Review Sheets** for exams:
+  - [Exam 1](https://github.com/jnear/cs295-data-privacy/blob/master/slides/exam1-review.md)
 
 ## Textbook & Other References
 
