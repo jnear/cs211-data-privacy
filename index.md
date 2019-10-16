@@ -176,6 +176,10 @@ Important dates:
 - Project presentations: December 4 & 6
 - Final projects due: TBA
 
+Important links:
+
+- [Course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes)
+- [PDFs of course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes/pdfs)
 
 | Week of...| Topics                                                                               | Reference | Homework (tentative)   |
 | ---------:| ------------------------------------------------------------------------------------ | --------- | ---------------------- |
