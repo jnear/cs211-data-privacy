@@ -185,9 +185,9 @@ Important dates:
 | 9/16/19   | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | [Notes #4](https://github.com/jnear/cs295-data-privacy/blob/master/notes/4%20-%20Properties%20of%20Differential%20Privacy.ipynb), [Notes #5](https://github.com/jnear/cs295-data-privacy/blob/master/notes/5%20-%20Sensitivity.ipynb)          | HW2 Released           |
 | 9/23/19   | Relaxations of DP; Gaussian mech.; advanced composition                              | [Notes #6](https://github.com/jnear/cs295-data-privacy/blob/master/notes/6%20-%20Approximate%20Differential%20Privacy.ipynb)          | HW2 Due; HW3 Released  |
 | 9/30/19   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | [Notes #7](https://github.com/jnear/cs295-data-privacy/blob/master/notes/7%20-%20Local%20Sensitivity.ipynb)          | HW3 Due                |
-| 10/7/19   | Exponential mechanism; sparse vector technique; exam #1                              |           | HW4 Released           |
-| 10/14/19  | Algorithm design; recent variants of differential privacy (no class Monday)          |           | HW4 Due; HW5 Released  |
-| 10/21/19  | Variants of differential privacy (no class Wednesday, Friday)                        |           | HW5 Due                |
+| 10/7/19   |  Recent variants of differential privacy; exam #1                              | [Notes #8](https://github.com/jnear/cs295-data-privacy/blob/master/notes/8%20-%20Variants%20of%20Differential%20Privacy.ipynb)          | HW4 Released           |
+| 10/14/19  | Exponential mechanism; sparse vector technique (no class Monday)          | [Notes #9](https://github.com/jnear/cs295-data-privacy/blob/master/notes/9%20-%20Exponential%20Mechanism.ipynb)          | HW4 Due; HW5 Released  |
+| 10/21/19  | Algorithm design (no class Wednesday, Friday)                                        |           | HW5 Due                |
 | 10/28/19  | Privacy-preserving machine learning; differentially private SGD                      |           | HW6 Released           |
 | 11/4/19   | Differentially private synthetic data                                                |           | HW6 Due; HW7 Released  |
 | 11/11/19  | Local differential privacy                                                           |           | HW7 Due; HW8 Released  |
