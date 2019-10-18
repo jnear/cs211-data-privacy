@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+**10/18/19**: [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) has been posted. It is due on Friday, October 25, at 5:00pm.
+
 **10/14/19**: [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) has been posted. It is due on Friday, October 18, at 5:00pm.
 
 **9/27/19**: [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) has been posted. It is due on Friday, October 4, at 5:00pm.
@@ -127,6 +129,7 @@ Please let me know if you have any questions about the submission process, or tr
  - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) (due Friday, September 27, 5:00pm)
  - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) (due Friday, October 4, 5:00pm)
  - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) (due Friday, October 18, 5:00pm)
+ - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) (due Friday, October 25, 5:00pm)
 
 ### Late Work
 
