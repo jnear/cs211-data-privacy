@@ -1,6 +1,4 @@
-# Final Project Information
-
-**NOTE:** This information is from Fall 2018, and is likely to change for Fall 2019.
+# Final Project Information (Fall 2019)
 
 ## Schedule & Requirements
 
@@ -28,14 +26,14 @@ The goal of the final project is for you to build a complete system that accompl
 
 The final project is worth 20% of your final grade. The schedule for final project deliverables, and the contribution of each one to the grade you receive for the final project, are as follows:
 
-| Deliverable           | Due Date            | Grade Percent | Turn In  |
-| ---------------------:| ------------------- | ------------- | -------- |
-| Project Proposal      | 11/16/18 at 11:59pm | 10%           | By email |
-| Implementation        | 12/7/18 at 11:59pm  | 20%           | By email |
-| Project Writeup       | 12/7/18 at 11:59pm  | 40%           | By email |
-| Project Presentations | 12/5/18 in class    | 30%           | In class |
+| Deliverable           | Due Date                      | Grade Percent | Turn In    |
+| ---------------------:| ----------------------------- | ------------- | ---------- |
+| Project Proposal      | 11/8/19 at 5:00pm             | 10%           | Gradescope |
+| Project Presentations | 12/4/19 and 12/6/19 in class  | 30%           | In class   |
+| Implementation        | 12/9/19 at 5:00pm             | 20%           | TBD        |
+| Project Writeup       | 12/9/19 at 5:00pm             | 40%           | Gradescope |
 
-- After the initial proposal phase, I'll respond with feedback and suggestions by email on Tuesday, 11/27.
+- After the initial proposal phase, I'll respond with feedback and suggestions on Gradescope by Friday, 11/15/19.
 - Each group member will receive the same project grade.
 - The proposal grade will focus on how likely your proposed solution is to solve the problem. Most proposals are likely to receive full credit (i.e. don't worry about making it perfect).
 - The implementation grade will focus on whether or not your code actually satisfies differential privacy; your implementation does not need to be particularly efficient or polished.
@@ -59,13 +57,17 @@ As a paper reviewer, I try to answer the following questions. Your writeup shoul
 - Expected impact (hard to guess)
 - Writing level: is the paper clearly written? Is it self-contained?
 
+### Graduate Students
+
+Graduate students (and undergraduates taking the course for graduate credit) will be expected to develop a more ambitious final project. In particular, your project writeup should be written in the style of a conference paper, and clearly describe the motivation for your work, your results, and what those results teach us that wasn't previously known. The goal is to give you practice in writing up a technical result in the style of a conference publication.
+
 ## Examples & Opportunities
 
 You're welcome to work on any project interesting to you, as long as it's related to data privacy. If your idea is very different from the kinds of examples listed below, please email me in advance of the proposal deadline so we can discuss it.
 
 ### Project Ideas
 
-- Use Vincent Bindschaedler's [Synthetic Data Generation Framework](https://vbinds.ch/node/69) to generate synthetic data and enter the NIST challenge.
+- Use one of the systems we discussed in class to generate differentially private synthetic data, and run experiments to test its utility against the original data.
 
 - Build a system to answer [WikiSQL](https://github.com/salesforce/WikiSQL) queries with differential privacy, and experiment with strategies for improving overall privacy budget behavior for a large workload of queries (e.g. better composition theorems).
 
@@ -75,25 +77,7 @@ You're welcome to work on any project interesting to you, as long as it's relate
 
 - Solve a [Kaggle competition](https://www.kaggle.com/competitions) challenge with differential privacy, either with deep learning (if you have expertise) or using the convex machine learning solutions we saw in class.
 
-### NIST Challenge
-
-NIST is running [a challenge](https://www.topcoder.com/community/data-science/Differential-Privacy-Synthetic-Data-Challenge) on producing differentially private synthetic data. I *highly encourage* projects that will also be submitted as entries to this challenge. There are significant cash prizes:
-
-- 1st place is $10,000!
-- 5th place is $1,000!
-- There may not be very many entries! There are [currently **none**](http://community.topcoder.com/longcontest/?module=ViewStandings&rd=17319).
-
-In addition to these prizes, there are two follow-on phases (starting in early 2019) that provide an opportunity to improve your solution and win more money.
-
-The [competitor pack](https://drive.google.com/uc?id=1TqgdwuhOLZaqNN6-uDeuwgkwHil3iamV) includes a CSV file with data that will be used for machine learning. The goal is to create a synthetic CSV file with the same shape, but which is differentially private, such that the accuracy of the models built with the synthetic CSV file are maximized.
-
-The NIST challenge requires submission of code plus a writeup with a proof of privacy. There will be significant overlap between the NIST-required writeup and the one required in this course, so this should not be a difficult requirement to meet.
-
-I believe submissions for this round end on November 30, but I'm waiting for clarification on the exact deadline.
-
-### NIST Review Opportunity
-
-If you're not interested in entering the NIST challenge above, NIST is also looking for *reviewers* for this challenge (you can't enter and review simultaneously). There is no money for this option, but it's something you could list on a resume and would provide an interesting look at the other entries. Requirements are simply to join a Google Hangouts video call 3 or 4 times in early December, and provide your opinion on whether or not the entries actually satisfy differential privacy.
+- Participate in a research project on formally verifying differentially private algorithms, which builds on [Duet](https://plaid.w3.uvm.edu/duet/) (more in class).
 
 ### CS Fair
 
