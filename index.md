@@ -7,6 +7,8 @@ layout: default
 
 ## Announcements
 
+**10/28/19**: [Notes on final projects](https://jnear.github.io/cs295-data-privacy/projects) have been posted.
+
 **10/21/19**: [Notes from today's lecture](https://github.com/jnear/cs295-data-privacy/blob/master/notes/11%20-%20Algorithm%20Design.ipynb) have been posted.
 
 **10/18/19**: [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) has been posted. It is due on Friday, October 25, at 5:00pm.
@@ -160,7 +162,7 @@ The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
 by implementing a practical system to perform privacy-preserving analysis of realistic data.
 
-Complete information: TBA.
+Click [here](https://jnear.github.io/cs295-data-privacy/projects) for more complete information.
 
 ## Schedule
 
@@ -179,7 +181,7 @@ Important dates:
 - Exam #1: Friday, October 11
 - Exam #2: Friday, November 22
 - Project presentations: December 4 & 6
-- Final projects due: TBA
+- Final projects due: December 9
 
 Important links:
 
