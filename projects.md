@@ -79,6 +79,23 @@ You're welcome to work on any project interesting to you, as long as it's relate
 
 - Participate in a research project on formally verifying differentially private algorithms, which builds on [Duet](https://plaid.w3.uvm.edu/duet/) (more in class).
 
+### Specific Algorithms of Interest
+
+Workloads of linear queries / synthetic data:
+- [Matrix mechanism](https://people.cs.umass.edu/~mcgregor/papers/15-vldbj.pdf)
+- [HDMM](https://arxiv.org/abs/1808.03537)
+- [MWEM](https://arxiv.org/pdf/1012.4763.pdf)
+- [Dual Query](https://arxiv.org/abs/1402.1526)
+
+Graph queries:
+- [Recursive mechanism](https://arxiv.org/abs/1304.4795)
+- Lipschitz extensions: [paper 1](http://www.cse.psu.edu/~sxr48/pubs/nodeprivacy-TCC.pdf), [paper 2](https://ieeexplore.ieee.org/document/7782964)
+- [Weighted PINQ](https://arxiv.org/abs/1203.3453)
+
+Algorithms for streaming data:
+- [PeGaSus](https://people.cs.umass.edu/~miklau/assets/pubs/dp/Chen17PeGaSus.pdf)
+
+
 ### CS Fair
 
 I *highly encourage* everyone to submit their projects to the [CS Fair](https://csfair.w3.uvm.edu/). The materials you prepare for the course should be all you need for a compelling entry, and there are cash prizes for the first three places. If you register by November 9, you get a free t-shirt!
