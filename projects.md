@@ -89,7 +89,7 @@ Workloads of linear queries / synthetic data:
 
 Graph queries:
 - [Recursive mechanism](https://arxiv.org/abs/1304.4795)
-- Lipschitz extensions: [paper 1](http://www.cse.psu.edu/~sxr48/pubs/nodeprivacy-TCC.pdf), [paper 2](https://ieeexplore.ieee.org/document/7782964)
+- Lipschitz extensions: [paper 1](http://www.cse.psu.edu/~sxr48/pubs/nodeprivacy-TCC.pdf), [paper 2](https://cs-people.bu.edu/sofya/pubs/Lipschitz-deg-ext-FOCS16.pdf)
 - [Weighted PINQ](https://arxiv.org/abs/1203.3453)
 
 Algorithms for streaming data:
