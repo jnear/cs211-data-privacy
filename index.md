@@ -203,7 +203,7 @@ Important links:
 | 10/14/19  | Exponential mechanism; sparse vector technique (no class Monday)          | [Notes #9](https://github.com/jnear/cs295-data-privacy/blob/master/notes/9%20-%20Exponential%20Mechanism.ipynb), [Notes #10](https://github.com/jnear/cs295-data-privacy/blob/master/notes/10%20-%20Sparse%20Vector%20Technique.ipynb)          | HW4 Due; HW5 Released  |
 | 10/21/19  | Algorithm design (no class Wednesday, Friday)                                        | [Notes #11](https://github.com/jnear/cs295-data-privacy/blob/master/notes/11%20-%20Algorithm%20Design.ipynb)          | HW5 Due                |
 | 10/28/19  | Privacy-preserving machine learning; differentially private SGD                      | [Notes #12](https://github.com/jnear/cs295-data-privacy/blob/master/notes/12%20-%20Machine%20Learning%20with%20Differential%20Privacy.ipynb)          | HW6 Released           |
-| 11/4/19   | Local differential privacy                                                           |           | HW6 Due; HW7 Released  |
+| 11/4/19   | Local differential privacy                                                           | [Notes #13](https://github.com/jnear/cs295-data-privacy/blob/master/notes/13%20-%20Local%20Differential%20Privacy.ipynb)          | HW6 Due; HW7 Released  |
 | 11/11/19  | Differentially private synthetic data                                                |           | HW7 Due; HW8 Released  |
 | 11/18/19  | Privacy in deep learning; practical systems for privacy; exam #2                     |           | HW8 Due                |
 | 11/25/19  | No class Monday, Wednesday, Friday                                                   |           |                        |
