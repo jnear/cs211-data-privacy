@@ -207,7 +207,7 @@ Important links:
 | 10/21/19  | Algorithm design (no class Wednesday, Friday)                                        | [Notes #11](https://github.com/jnear/cs295-data-privacy/blob/master/notes/11%20-%20Algorithm%20Design.ipynb)          | HW5 Due                |
 | 10/28/19  | Privacy-preserving machine learning; differentially private SGD                      | [Notes #12](https://github.com/jnear/cs295-data-privacy/blob/master/notes/12%20-%20Machine%20Learning%20with%20Differential%20Privacy.ipynb)          | HW6 Released           |
 | 11/4/19   | Local differential privacy                                                           | [Notes #13](https://github.com/jnear/cs295-data-privacy/blob/master/notes/13%20-%20Local%20Differential%20Privacy.ipynb)          | HW6 Due; HW7 Released  |
-| 11/11/19  | Differentially private synthetic data                                                |           | HW7 Due; HW8 Released  |
+| 11/11/19  | Differentially private synthetic data                                                | [Notes #14](https://github.com/jnear/cs295-data-privacy/blob/master/notes/14%20-%20Synthetic%20Data.ipynb)          | HW7 Due; HW8 Released  |
 | 11/18/19  | Privacy in deep learning; practical systems for privacy; exam #2                     |           | HW8 Due                |
 | 11/25/19  | No class Monday, Wednesday, Friday                                                   |           |                        |
 | 12/2/19   | Open challenges; project presentations                                               |           | Final projects due     |
