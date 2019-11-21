@@ -75,6 +75,7 @@ their practical implications by building their own systems that perform privacy-
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs295-data-privacy/blob/master/slides/exam1-review.md)
+  - [Exam 2](https://github.com/jnear/cs295-data-privacy/blob/master/slides/exam2-review.md)
 
 ## Textbook & Other References
 
