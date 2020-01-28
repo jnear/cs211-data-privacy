@@ -3,33 +3,11 @@ title: CS 295 Data Privacy
 layout: default
 ---
 
-# UVM CS 295: Data Privacy (Fall 2019)
+# UVM CS 295: Data Privacy (Fall 2020)
 
 ## Announcements
 
-**11/20/19**: [Homework 8](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%208.ipynb) has been posted.
-
-**11/10/19**: [Homework 7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb) has been posted. It is due on Friday, November 15, at 5:00pm.
-
-**11/3/19**: [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb) has been posted. It is due on Friday, November 8, at 5:00pm.
-
-**10/28/19**: [Notes on final projects](https://jnear.github.io/cs295-data-privacy/projects) have been posted.
-
-**10/21/19**: [Notes from today's lecture](https://github.com/jnear/cs295-data-privacy/blob/master/notes/11%20-%20Algorithm%20Design.ipynb) have been posted.
-
-**10/18/19**: [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) has been posted. It is due on Friday, October 25, at 5:00pm.
-
-**10/14/19**: [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) has been posted. It is due on Friday, October 18, at 5:00pm.
-
-**9/27/19**: [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) has been posted. It is due on Friday, October 4, at 5:00pm.
-
-**9/17/19**: [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) has been posted. It is due on Friday, September 27, at 5:00pm.
-
-**9/13/19**: Due to a travel delay, there will be no class today (9/13). I have delayed the submission deadline for Homework 1 to next Tuesday.
-
-**9/9/19**: I have posted the first three sets of [course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes), which may be helpful in completing the first homework assignment.
-
-**9/6/19**: [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) has been posted. It is due on Friday, September 13, at 5:00pm.
+None yet.
 
 ## Course Description
 
