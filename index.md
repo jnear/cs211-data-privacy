@@ -175,6 +175,7 @@ Note that class will **not** be held on the following dates:
 Important due dates:
 
 - Homework assignments are due every *Sunday* at 11:59pm.
+- In-class exercises are due *the day of the class*, by 11:59pm.
 
 | Item                                     | Due Date |
 | ---------------------------------------: | -------- |
