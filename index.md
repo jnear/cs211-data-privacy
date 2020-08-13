@@ -1,9 +1,9 @@
 ---
-title: CS 295 Data Privacy
+title: CS 211 Data Privacy
 layout: default
 ---
 
-# UVM CS 295: Data Privacy (Fall 2020)
+# UVM CS 211: Data Privacy (Fall 2020)
 
 ## Announcements
 
@@ -38,22 +38,35 @@ This course will include programming assignments and an end-of-semester project,
 in which students are expected to demonstrate both mastery of the concepts we explore and understanding of
 their practical implications by building their own systems that perform privacy-preserving analyses on real data.
 
+## Learning Objectives
+
+By the end of this course, you will be able to:
+
+- Describe the problem and challenges of data privacy
+- Conduct a privacy attack on de-identified data
+- Define and apply formal notions of privacy, including k-Anonymity and differential privacy
+- Design differentially private algorithms and argue that they are correct
+- Evaluate the accuracy and efficiency properties of differentially private algorithms
+
 ## Administrative
 
-- **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, Votey 254
+- **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, on MS Teams
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: Thursdays, 2:00pm - 4:00pm, Innovation E458
+- **Office hours**: TBA
 
 ## Resources
 
-- **Course notes** are available as Python notebooks [here](https://github.com/jnear/cs295-data-privacy/tree/master/notes)
-- **Homework assignments** will be turned in via [Gradescope](https://www.gradescope.com/)
-- **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
-- **Slides** from lecture are available [here](https://github.com/jnear/cs295-data-privacy/tree/master/slides)
+- **Lectures** will take place *synchronously* on MS Teams. If you
+  have not been added to the CS 211 Team, please email me. Lectures
+  will be recorded and available on MS Teams for offline viewing.
+- **Course textbook** is available [online](https://uvm-plaid.github.io/programming-dp) or as a [PDF](coming soon)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
+- **Homework assignments** will be turned in via Blackboard
+- **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
+- **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
-  - [Exam 1](https://github.com/jnear/cs295-data-privacy/blob/master/slides/exam1-review.md)
-  - [Exam 2](https://github.com/jnear/cs295-data-privacy/blob/master/slides/exam2-review.md)
+  - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
+  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
 
 ## Textbook & Other References
 
@@ -61,12 +74,15 @@ Please **do not** buy any books for this course. All required reference material
 
 The primary textbook we will use for this course is:
 
+- [Programming Differential Privacy](https://uvm-plaid.github.io/programming-dp)  
+  Joseph P. Near.  
+  Also available as a [PDF](coming soon)
+
+The following resources may also be useful for additional reading:
+
 - [D&R] [The Algorithmic Foundations of Differential Privacy](https://www.cis.upenn.edu/~aaroth/Papers/privacybook.pdf)  
   Cynthia Dwork and Aaron Roth.
-
-The textbook is available in PDF form for free; buying a paper copy is difficult and not needed for this course.
-We will also use the following non-technical primer on differential privacy, also available for free:
-
+  
 - [Nissim] [Differential Privacy: A Primer for a Non-technical Audience](https://privacytools.seas.harvard.edu/files/privacytools/files/pedagogical-document-dp_new.pdf)  
    Kobbi Nissim, Thomas Steinke, Alexandra Wood, Micah Altman, Aaron Bembenek, Mark Bun, Marco Gaboardi, David R. O’Brien, and Salil Vadhan.
 
@@ -74,10 +90,10 @@ In addition to these, we will reference a number of academic papers throughout t
 
 ### Links and Helpful Resources
 
- - [Definitions and formulas](https://github.com/jnear/cs295-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
+ - [Definitions and formulas](https://github.com/jnear/cs211-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
- - [Intro to differentially private machine learning](https://github.com/jnear/cs295-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
- - [Variants of differential privacy](https://github.com/jnear/cs295-data-privacy/blob/master/slides/privacy_definitions.pdf)
+ - [Intro to differentially private machine learning](https://github.com/jnear/cs211-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
+ - [Variants of differential privacy](https://github.com/jnear/cs211-data-privacy/blob/master/slides/privacy_definitions.pdf)
  - Vincent Bindschaedler's [Synthetic Data Generation Framework](https://vbinds.ch/node/69)
 
 ## Policies
@@ -87,46 +103,43 @@ In addition to these, we will reference a number of academic papers throughout t
 Your grade for the course will be determined as follows:
 
 - 8 homework assignments (5% each; 40% total)
-- 2 in-class exams (20% each; 40% total)
+- in-class exercises (20% total)
 - final project (20%)
 
 ### Exams & Quizzes
 
-There will be two exams during class on October 11 and November 22.
-You will be allowed one physical page (8 1/2" x 11") of notes for each exam.
+There will be no exams for this course.
 There is no final exam, and this course will conclude before the University's exam period.
 
-### Homework Assignments
+### Homework Assignments and In-class Exercises
 
-This course will use Python for examples and for programming assignments.
-Students are expected to be proficient in Python programming.
-Programming assignments will be distributed and turned in as Jupyter notebooks.
-See [this page](http://jupyter.org/install) for information on installing Jupyter; the Anaconda method is recommended,
-since it also installs the other libraries we will use in the course.
+This course will use Python for examples and for programming
+assignments.  Students are expected to be proficient in Python
+programming.  Programming assignments will be distributed and turned
+in as Jupyter notebooks.  See [this page](http://jupyter.org/install)
+for information on installing Jupyter; the Anaconda method is
+recommended, since it also installs the other libraries we will use in
+the course.
 
-**Assignment Submission*: Homework will be turned in and graded via Gradescope. You should receive an email with a link to activate your account after the semester begins. If you don't receive such a link, or if you have trouble logging in to Gradescope, let me know.
+**Assignment Submission*: Homework and in-class exercises will be
+turned in via Blackboard.
 
 To submit an assignment:
 
 1. Complete the released Jupyter Notebook by filling in answers to all the questions
-2. Export your Notebook to a Python (.py) file. In the Notebook interface, click on "File" -> "Download as..." -> "Python (.py)"
-3. Log into Gradesceope and submit the exported .py file as your assignment solution
+2. Submit the notebook file (the .ipynb file) as your solution on Blackboard
+
+*Please* do not change the name of the .ipynb file. This makes the
+grading process more difficult.
 
 Please let me know if you have any questions about the submission process, or trouble with Gradescope.
 
- - [Homework 1](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%201.ipynb) (due Tuesday, September 17, 5:00pm)
- - [Homework 2](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%202.ipynb) (due Friday, September 27, 5:00pm)
- - [Homework 3](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%203.ipynb) (due Friday, October 4, 5:00pm)
- - [Homework 4](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%204.ipynb) (due Friday, October 18, 5:00pm)
- - [Homework 5](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%205.ipynb) (due Friday, October 25, 5:00pm)
- - [Homework 6](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%206.ipynb) (due Friday, November 8, 5:00pm)
- - [Homework 7](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%207.ipynb) (due Friday, November 15, 5:00pm)
- - [Homework 8](https://github.com/jnear/cs295-data-privacy/blob/master/homework/Homework%208.ipynb) (in class, Wednesday November 20)
-
 ### Late Work
 
-Homework assignments may be turned in late for a penalty of 10% per day after the deadline.
-Homework more than 10 days late will not be accepted.
+Late work *may* be accepted, but you *must* make arrangements with me
+first. If you need to turn something in late, for any reason, please
+email me *before the deadline*. Depending on the circumstances, I may
+(or may not) impose a late penalty on your grade.
 
 ### Collaboration & Allowed References
 
@@ -150,47 +163,77 @@ The course will include a final project, completed in groups of 1-3 students.
 The final project will demonstrate your mastery of the concepts covered in this course
 by implementing a practical system to perform privacy-preserving analysis of realistic data.
 
-Click [here](https://jnear.github.io/cs295-data-privacy/projects) for more complete information.
+Click [here](https://jnear.github.io/cs211-data-privacy/projects) for more complete information.
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Monday, Sep. 2 (labor day)
-- Monday, Sep. 9
-- Wednesday, Sep. 11
-- Monday, Oct. 14 (fall recess)
-- Wednesday, Oct. 23
-- Friday, Oct. 25
-- Week of Nov. 25 (Thanksgiving break)
+- Monday, Sep. 7 (labor day)
+- Wednesday and Friday of Thanksgiving week
 
-Important dates:
+Important due dates:
 
-- Exam #1: Friday, October 11
-- Exam #2: Friday, November 22
-- Project presentations: December 4 & 6
-- Final projects due: December 9
+| Item                                     | Due Date |
+| ---------------------------------------: | -------- |
+| Homework 1                               | 9/13/20  |
+| Homework 2                               | 9/27/20  |
+| Homework 3                               | 10/4/20  |
+| Homework 4                               | 10/18/20 |
+| Homework 5                               | 10/25/20 |
+| Homework 6                               | 11/8/20  |
+| Homework 7                               | 11/15/20 |
+| Homework 8                               | 11/22/20 |
+| Project presentations                    | TBA      |
+| Final project writeup/implementation     | TBA      |
+|                                          |          |
 
-Important links:
+Schedule of topics:
 
-- [Course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes)
-- [PDFs of course notes](https://github.com/jnear/cs295-data-privacy/tree/master/notes/pdfs)
+| Week of... | Topics                                                                               | Reference | Homework (tentative)   |
+| ---------: | ------------------------------------------------------------------------------------ | --------- | ---------------------- |
+| 8/31/20    | Intro to data privacy; de-identification; re-identification                          | Ch. 1     |                        |
+| 9/7/20     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     | HW1 Released           |
+| 9/14/20    | Intro to differential privacy                                                        | Ch. 3     | HW1 Due                |
+| 9/21/20    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | Ch. 4, 5  | HW2 Released           |
+| 9/28/20    | Relaxations of DP; Gaussian mech.; advanced composition                              | Ch. 6     | HW2 Due; HW3 Released  |
+| 10/5/20    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     | HW3 Due                |
+| 10/12/20   | Recent variants of differential privacy                                              | Ch. 8     | HW4 Released           |
+| 10/19/20   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 | HW4 Due; HW5 Released  |
+| 10/26/20   | Algorithm design                                                                     | Ch. 11    | HW5 Due                |
+| 11/2/20    | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    | HW6 Released           |
+| 11/9/20    | Local differential privacy                                                           | Ch. 13    | HW6 Due; HW7 Released  |
+| 11/16/20   | Differentially private synthetic data                                                | Ch. 14    | HW7 Due; HW8 Released  |
+| 11/23/20   | Privacy in deep learning (no class Wednesday, Friday)                                |           | HW8 Due                |
+| 11/30/20   | Practical systems for privacy                                                        |           |                        |
+| 12/2/20    | Open challenges; project presentations                                               |           | Final projects due     |
 
-| Week of...| Topics                                                                               | Reference | Homework (tentative)   |
-| ---------:| ------------------------------------------------------------------------------------ | --------- | ---------------------- |
-| 8/26/19   | Intro to data privacy; de-identification; re-identification                          | [Notes #1](https://github.com/jnear/cs295-data-privacy/blob/master/notes/1%20-%20De-identification%20and%20Re-identification.ipynb)  |                        |
-| 9/2/19    | k-Anonymity and l-Diversity (no class Monday)                                        | [Notes #2](https://github.com/jnear/cs295-data-privacy/blob/master/notes/2%20-%20k-Anonymity.ipynb)  | HW1 Released           |
-| 9/9/19    | Intro to differential privacy (no class Monday & Wednesday)                          | [Notes #3](https://github.com/jnear/cs295-data-privacy/blob/master/notes/3%20-%20Introduction%20to%20Differential%20Privacy.ipynb)  | HW1 Due                |
-| 9/16/19   | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | [Notes #4](https://github.com/jnear/cs295-data-privacy/blob/master/notes/4%20-%20Properties%20of%20Differential%20Privacy.ipynb), [Notes #5](https://github.com/jnear/cs295-data-privacy/blob/master/notes/5%20-%20Sensitivity.ipynb)          | HW2 Released           |
-| 9/23/19   | Relaxations of DP; Gaussian mech.; advanced composition                              | [Notes #6](https://github.com/jnear/cs295-data-privacy/blob/master/notes/6%20-%20Approximate%20Differential%20Privacy.ipynb)          | HW2 Due; HW3 Released  |
-| 9/30/19   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | [Notes #7](https://github.com/jnear/cs295-data-privacy/blob/master/notes/7%20-%20Local%20Sensitivity.ipynb)          | HW3 Due                |
-| 10/7/19   |  Recent variants of differential privacy; exam #1                              | [Notes #8](https://github.com/jnear/cs295-data-privacy/blob/master/notes/8%20-%20Variants%20of%20Differential%20Privacy.ipynb)          | HW4 Released           |
-| 10/14/19  | Exponential mechanism; sparse vector technique (no class Monday)          | [Notes #9](https://github.com/jnear/cs295-data-privacy/blob/master/notes/9%20-%20Exponential%20Mechanism.ipynb), [Notes #10](https://github.com/jnear/cs295-data-privacy/blob/master/notes/10%20-%20Sparse%20Vector%20Technique.ipynb)          | HW4 Due; HW5 Released  |
-| 10/21/19  | Algorithm design (no class Wednesday, Friday)                                        | [Notes #11](https://github.com/jnear/cs295-data-privacy/blob/master/notes/11%20-%20Algorithm%20Design.ipynb)          | HW5 Due                |
-| 10/28/19  | Privacy-preserving machine learning; differentially private SGD                      | [Notes #12](https://github.com/jnear/cs295-data-privacy/blob/master/notes/12%20-%20Machine%20Learning%20with%20Differential%20Privacy.ipynb)          | HW6 Released           |
-| 11/4/19   | Local differential privacy                                                           | [Notes #13](https://github.com/jnear/cs295-data-privacy/blob/master/notes/13%20-%20Local%20Differential%20Privacy.ipynb)          | HW6 Due; HW7 Released  |
-| 11/11/19  | Differentially private synthetic data                                                | [Notes #14](https://github.com/jnear/cs295-data-privacy/blob/master/notes/14%20-%20Synthetic%20Data.ipynb)          | HW7 Due; HW8 Released  |
-| 11/18/19  | Privacy in deep learning; practical systems for privacy; exam #2                     |           | HW8 Due                |
-| 11/25/19  | No class Monday, Wednesday, Friday                                                   |           |                        |
-| 12/2/19   | Open challenges; project presentations                                               |           | Final projects due     |
+# Accommodations
 
+In keeping with University policy, any student with a documented
+disability interested in utilizing accommodations should contact SAS,
+the office of Disability Services on campus. SAS works with students
+and faculty in an interactive process to explore reasonable and
+appropriate accommodations, which are communicated to faculty in an
+accommodation letter. All students are strongly encouraged to meet
+with their faculty to discuss the accommodations they plan to use in
+each course. A student's accommodation letter lists those
+accommodations that will not be implemented until the student meets
+with their faculty to create a plan. Contact SAS: A170 Living/Learning
+Center; 802-656-7753; access@uvm.edu; or www.uvm.edu/access
+
+# Religious Holidays
+
+Students have the right to practice the religion of their choice. Each
+semester students should submit in writing to their instructors by the
+end of the second full week of classes their documented religious
+holiday schedule for the semester. An arrangement can then be made to
+make up the missed work.
+
+# Student Athletes
+
+In order to be excused from classes, student athletes should submit
+appropriate documentation to the Professor in advance of all
+scheduling conflicts within the first two weeks of class. Those
+missing class are expected to submit make-up assignments within a
+reasonable time period.

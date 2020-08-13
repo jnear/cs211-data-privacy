@@ -1,3 +1,5 @@
+# NOTE: This information is outdated, and has NOT yet been updated for Fall 2020
+
 # Final Project Information (Fall 2019)
 
 ## Schedule & Requirements
