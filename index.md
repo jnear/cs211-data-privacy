@@ -174,6 +174,8 @@ Note that class will **not** be held on the following dates:
 
 Important due dates:
 
+- Homework assignments are due every *Sunday* at 11:59pm.
+
 | Item                                     | Due Date |
 | ---------------------------------------: | -------- |
 | Homework 1                               | 9/13/20  |
