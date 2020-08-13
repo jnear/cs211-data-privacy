@@ -102,8 +102,8 @@ In addition to these, we will reference a number of academic papers throughout t
 
 Your grade for the course will be determined as follows:
 
-- 8 homework assignments (5% each; 40% total)
-- in-class exercises (20% total)
+- 11 homework assignments (5% each; 55% total)
+- in-class exercises (25% total)
 - final project (20%)
 
 ### Exams & Quizzes
@@ -177,36 +177,38 @@ Important due dates:
 | Item                                     | Due Date |
 | ---------------------------------------: | -------- |
 | Homework 1                               | 9/13/20  |
-| Homework 2                               | 9/27/20  |
-| Homework 3                               | 10/4/20  |
-| Homework 4                               | 10/18/20 |
-| Homework 5                               | 10/25/20 |
-| Homework 6                               | 11/8/20  |
-| Homework 7                               | 11/15/20 |
-| Homework 8                               | 11/22/20 |
+| Homework 2                               | 9/20/20  |
+| Homework 3                               | 9/27/20  |
+| Homework 4                               | 10/4/20  |
+| Homework 5                               | 10/11/20 |
+| Homework 6                               | 10/18/20 |
+| Homework 7                               | 10/26/20 |
+| Homework 8                               | 11/1/20  |
+| Homework 9                               | 11/8/20  |
+| Homework 10                              | 11/15/20 |
+| Homework 11                              | 11/22/20 |
 | Project presentations                    | TBA      |
 | Final project writeup/implementation     | TBA      |
-|                                          |          |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                               | Reference | Homework (tentative)   |
-| ---------: | ------------------------------------------------------------------------------------ | --------- | ---------------------- |
-| 8/31/20    | Intro to data privacy; de-identification; re-identification                          | Ch. 1     |                        |
-| 9/7/20     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     | HW1 Released           |
-| 9/14/20    | Intro to differential privacy                                                        | Ch. 3     | HW1 Due                |
-| 9/21/20    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | Ch. 4, 5  | HW2 Released           |
-| 9/28/20    | Relaxations of DP; Gaussian mech.; advanced composition                              | Ch. 6     | HW2 Due; HW3 Released  |
-| 10/5/20    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     | HW3 Due                |
-| 10/12/20   | Recent variants of differential privacy                                              | Ch. 8     | HW4 Released           |
-| 10/19/20   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 | HW4 Due; HW5 Released  |
-| 10/26/20   | Algorithm design                                                                     | Ch. 11    | HW5 Due                |
-| 11/2/20    | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    | HW6 Released           |
-| 11/9/20    | Local differential privacy                                                           | Ch. 13    | HW6 Due; HW7 Released  |
-| 11/16/20   | Differentially private synthetic data                                                | Ch. 14    | HW7 Due; HW8 Released  |
-| 11/23/20   | Privacy in deep learning (no class Wednesday, Friday)                                |           | HW8 Due                |
-| 11/30/20   | Practical systems for privacy                                                        |           |                        |
-| 12/2/20    | Open challenges; project presentations                                               |           | Final projects due     |
+| Week of... | Topics                                                                               | Reference |
+| ---------: | ------------------------------------------------------------------------------------ | --------- |
+| 8/31/20    | Intro to data privacy; de-identification; re-identification                          | Ch. 1     |
+| 9/7/20     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     |
+| 9/14/20    | Intro to differential privacy                                                        | Ch. 3     |
+| 9/21/20    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | Ch. 4, 5  |
+| 9/28/20    | Relaxations of DP; Gaussian mech.; advanced composition                              | Ch. 6     |
+| 10/5/20    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
+| 10/12/20   | Recent variants of differential privacy                                              | Ch. 8     |
+| 10/19/20   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 |
+| 10/26/20   | Algorithm design                                                                     | Ch. 11    |
+| 11/2/20    | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    |
+| 11/9/20    | Local differential privacy                                                           | Ch. 13    |
+| 11/16/20   | Differentially private synthetic data                                                | Ch. 14    |
+| 11/23/20   | Privacy in deep learning (no class Wednesday, Friday)                                |           |
+| 11/30/20   | Practical systems for privacy                                                        |           |
+| 12/2/20    | Open challenges; project presentations                                               |           |
 
 # Accommodations
 
