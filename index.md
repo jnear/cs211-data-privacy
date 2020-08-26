@@ -60,9 +60,9 @@ By the end of this course, you will be able to:
   have not been added to the CS 211 Team, please email me. Lectures
   will be recorded and available on MS Teams for offline viewing.
 - **Course textbook** is available [online](https://uvm-plaid.github.io/programming-dp) or as a [PDF](coming soon)
-- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/courseMain?course_id=_135289_1)
+- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_147722_1&url=)
 - **Homework assignments** will be turned in via Blackboard
-- **Discussions** will take place on the course [Piazza](https://piazza.com/class/jzjwvewkdri4yk)
+- **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
