@@ -116,10 +116,9 @@ There is no final exam, and this course will conclude before the University's ex
 This course will use Python for examples and for programming
 assignments.  Students are expected to be proficient in Python
 programming.  Programming assignments will be distributed and turned
-in as Jupyter notebooks.  See [this page](http://jupyter.org/install)
-for information on installing Jupyter; the Anaconda method is
-recommended, since it also installs the other libraries we will use in
-the course.
+in as Jupyter notebooks. [Click
+here](https://jnear.github.io/cs211-data-privacy/jupyter) for
+instructions on installing Jupyter Notebook.
 
 **Assignment Submission*: Homework and in-class exercises will be
 turned in via Blackboard.
