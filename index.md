@@ -64,6 +64,7 @@ By the end of this course, you will be able to:
 - **Homework assignments** will be turned in via Blackboard
 - **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
+- **Videos** from lecture are available [here](https://web.microsoftstream.com/group/09ea8e16-811d-4350-be9a-366adaeb8fe6?view=videos)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
   - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
