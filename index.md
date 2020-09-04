@@ -59,7 +59,7 @@ By the end of this course, you will be able to:
 - **Lectures** will take place *synchronously* on MS Teams. If you
   have not been added to the CS 211 Team, please email me. Lectures
   will be recorded and available on MS Teams for offline viewing.
-- **Course textbook** is available [online](https://uvm-plaid.github.io/programming-dp) or as a [PDF](coming soon)
+- **Course textbook** is available [online](https://uvm-plaid.github.io/programming-dp) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_147722_1&url=)
 - **Homework assignments** will be turned in via Blackboard
 - **Discussions** will take place on MS Teams
@@ -77,7 +77,7 @@ The primary textbook we will use for this course is:
 
 - [Programming Differential Privacy](https://uvm-plaid.github.io/programming-dp)  
   Joseph P. Near.  
-  Also available as a [PDF](coming soon)
+  Also available as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 
 The following resources may also be useful for additional reading:
 
