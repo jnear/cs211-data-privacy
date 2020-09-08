@@ -110,7 +110,7 @@ In addition to these, we will reference a number of academic papers throughout t
 Your grade for the course will be determined as follows:
 
 - 11 homework assignments (5% each; 55% total)
-- in-class exercises (25% total)
+- in-class exercises (25% total) (3 lowest scores will be dropped)
 - final project (20%)
 
 ### Exams & Quizzes
@@ -138,7 +138,7 @@ To submit an assignment:
 *Please* do not change the name of the .ipynb file. This makes the
 grading process more difficult.
 
-Please let me know if you have any questions about the submission process, or trouble with Gradescope.
+Please let me know if you have any questions about the submission process.
 
 ### Late Work
 
