@@ -61,7 +61,13 @@ By the end of this course, you will be able to:
   will be recorded and available on MS Teams for offline viewing.
 - **Course textbook** is available [online](https://uvm-plaid.github.io/programming-dp) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
 - **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_147722_1&url=)
-- **Homework assignments** will be turned in via Blackboard
+- **Course Github Repo** [is available here](https://github.com/jnear/cs211-data-privacy)
+- **Daily exercises**
+  - [Download exercises here](https://github.com/jnear/cs211-data-privacy/tree/master/exercises)
+  - Turn in notebook files on Blackboard
+- **Homework assignments** 
+  - [Download notebooks here](https://github.com/jnear/cs211-data-privacy/tree/master/homework)
+  - Turn in notebook files on Blackboard
 - **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
 - **Videos** from lecture are available [here](https://web.microsoftstream.com/group/09ea8e16-811d-4350-be9a-366adaeb8fe6?view=videos)
@@ -177,21 +183,21 @@ Important due dates:
 - Homework assignments are due every *Sunday* at 11:59pm.
 - In-class exercises are due *the day of the class*, by 11:59pm.
 
-| Item                                     | Due Date |
-| ---------------------------------------: | -------- |
-| Homework 1                               | 9/13/20  |
-| Homework 2                               | 9/20/20  |
-| Homework 3                               | 9/27/20  |
-| Homework 4                               | 10/4/20  |
-| Homework 5                               | 10/11/20 |
-| Homework 6                               | 10/18/20 |
-| Homework 7                               | 10/26/20 |
-| Homework 8                               | 11/1/20  |
-| Homework 9                               | 11/8/20  |
-| Homework 10                              | 11/15/20 |
-| Homework 11                              | 11/22/20 |
-| Project presentations                    | TBA      |
-| Final project writeup/implementation     | TBA      |
+| Item                                                                            | Due Date |
+| ------------------------------------------------------------------------------: | -------- |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/tree/master/homework)  | 9/13/20  |
+| Homework 2                                                                      | 9/20/20  |
+| Homework 3                                                                      | 9/27/20  |
+| Homework 4                                                                      | 10/4/20  |
+| Homework 5                                                                      | 10/11/20 |
+| Homework 6                                                                      | 10/18/20 |
+| Homework 7                                                                      | 10/26/20 |
+| Homework 8                                                                      | 11/1/20  |
+| Homework 9                                                                      | 11/8/20  |
+| Homework 10                                                                     | 11/15/20 |
+| Homework 11                                                                     | 11/22/20 |
+| Project presentations                                                           | TBA      |
+| Final project writeup/implementation                                            | TBA      |
 
 Schedule of topics:
 
