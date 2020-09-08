@@ -183,21 +183,21 @@ Important due dates:
 - Homework assignments are due every *Sunday* at 11:59pm.
 - In-class exercises are due *the day of the class*, by 11:59pm.
 
-| Item                                                                            | Due Date |
-| ------------------------------------------------------------------------------: | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/tree/master/homework)  | 9/13/20  |
-| Homework 2                                                                      | 9/20/20  |
-| Homework 3                                                                      | 9/27/20  |
-| Homework 4                                                                      | 10/4/20  |
-| Homework 5                                                                      | 10/11/20 |
-| Homework 6                                                                      | 10/18/20 |
-| Homework 7                                                                      | 10/26/20 |
-| Homework 8                                                                      | 11/1/20  |
-| Homework 9                                                                      | 11/8/20  |
-| Homework 10                                                                     | 11/15/20 |
-| Homework 11                                                                     | 11/22/20 |
-| Project presentations                                                           | TBA      |
-| Final project writeup/implementation                                            | TBA      |
+| Item                                                                                       | Due Date |
+| -----------------------------------------------------------------------------------------: | -------- |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_1.ipynb)  | 9/13/20  |
+| Homework 2                                                                                 | 9/20/20  |
+| Homework 3                                                                                 | 9/27/20  |
+| Homework 4                                                                                 | 10/4/20  |
+| Homework 5                                                                                 | 10/11/20 |
+| Homework 6                                                                                 | 10/18/20 |
+| Homework 7                                                                                 | 10/26/20 |
+| Homework 8                                                                                 | 11/1/20  |
+| Homework 9                                                                                 | 11/8/20  |
+| Homework 10                                                                                | 11/15/20 |
+| Homework 11                                                                                | 11/22/20 |
+| Project presentations                                                                      | TBA      |
+| Final project writeup/implementation                                                       | TBA      |
 
 Schedule of topics:
 
