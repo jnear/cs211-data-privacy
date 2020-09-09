@@ -52,7 +52,7 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, on MS Teams
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: TBA
+- **Office hours**: Mondays and Fridays, 3pm-4pm, and by appointment
 
 ## Resources
 
@@ -180,22 +180,22 @@ Note that class will **not** be held on the following dates:
 
 Important due dates:
 
-- Homework assignments are due every *Sunday* at 11:59pm.
+- Homework assignments are due every *Monday* at 11:59pm.
 - In-class exercises are due *the day of the class*, by 11:59pm.
 
 | Item                                                                                       | Due Date |
 | -----------------------------------------------------------------------------------------: | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_1.ipynb)  | 9/13/20  |
-| Homework 2                                                                                 | 9/20/20  |
-| Homework 3                                                                                 | 9/27/20  |
-| Homework 4                                                                                 | 10/4/20  |
-| Homework 5                                                                                 | 10/11/20 |
-| Homework 6                                                                                 | 10/18/20 |
-| Homework 7                                                                                 | 10/26/20 |
-| Homework 8                                                                                 | 11/1/20  |
-| Homework 9                                                                                 | 11/8/20  |
-| Homework 10                                                                                | 11/15/20 |
-| Homework 11                                                                                | 11/22/20 |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_1.ipynb)  | 9/14/20  |
+| Homework 2                                                                                 | 9/21/20  |
+| Homework 3                                                                                 | 9/28/20  |
+| Homework 4                                                                                 | 10/5/20  |
+| Homework 5                                                                                 | 10/12/20 |
+| Homework 6                                                                                 | 10/19/20 |
+| Homework 7                                                                                 | 10/27/20 |
+| Homework 8                                                                                 | 11/2/20  |
+| Homework 9                                                                                 | 11/9/20  |
+| Homework 10                                                                                | 11/16/20 |
+| Homework 11                                                                                | 11/23/20 |
 | Project presentations                                                                      | TBA      |
 | Final project writeup/implementation                                                       | TBA      |
 
