@@ -189,7 +189,7 @@ Important due dates:
 | [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_2.ipynb)  | 9/21/20  |
 | [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_3.ipynb)  | 9/28/20  |
 | [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_4.ipynb)  | 10/5/20  |
-| Homework 5                                                                                 | 10/12/20 |
+| Homework 5 *lite*                                                                          | 10/12/20 |
 | Homework 6                                                                                 | 10/19/20 |
 | Homework 7                                                                                 | 10/27/20 |
 | Homework 8                                                                                 | 11/2/20  |
@@ -207,11 +207,11 @@ Schedule of topics:
 | 9/7/20     | k-Anonymity and l-Diversity (no class Monday)                                        | Ch. 2     |
 | 9/14/20    | Intro to differential privacy                                                        | Ch. 3     |
 | 9/21/20    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget        | Ch. 4, 5  |
-| 9/28/20    | Relaxations of DP; Gaussian mech.; advanced composition                              | Ch. 6     |
-| 10/5/20    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
-| 10/12/20   | Recent variants of differential privacy                                              | Ch. 8     |
-| 10/19/20   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 |
-| 10/26/20   | Algorithm design                                                                     | Ch. 11    |
+| 9/28/20    | Sensitivity & clipping; approximate DP; Gaussian mech.                               | Ch. 6     |
+| 10/5/20    | *Intermission*. Advanced composition; real systems                                   | Ch. 6     |
+| 10/12/20   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate    | Ch. 7     |
+| 10/19/20   | Recent variants of differential privacy                                              | Ch. 8     |
+| 10/26/20   | Exponential mechanism; sparse vector technique                                       | Ch. 9, 10 |
 | 11/2/20    | Privacy-preserving machine learning; differentially private SGD                      | Ch. 12    |
 | 11/9/20    | Local differential privacy                                                           | Ch. 13    |
 | 11/16/20   | Differentially private synthetic data                                                | Ch. 14    |
