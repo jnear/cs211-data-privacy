@@ -189,7 +189,7 @@ Important due dates:
 | [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_2.ipynb)  | 9/21/20  |
 | [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_3.ipynb)  | 9/28/20  |
 | [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/HW_4.ipynb)  | 10/5/20  |
-| Homework 5 *lite*                                                                          | 10/12/20 |
+| Homework 5 *lite*                                                                          | 10/14/20 |
 | Homework 6                                                                                 | 10/19/20 |
 | Homework 7                                                                                 | 10/27/20 |
 | Homework 8                                                                                 | 11/2/20  |
