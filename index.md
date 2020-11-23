@@ -195,7 +195,7 @@ Important due dates:
 | [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb)   | 11/2/20  |
 | [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb)   | 11/9/20  |
 | [Homework 10](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_10.ipynb) | 11/16/20 |
-| Homework 11                                                                                       | 11/23/20 |
+| Homework 11                                                                                       | 12/4/20  |
 | Project presentations                                                                             | TBA      |
 | Final project writeup/implementation                                                              | TBA      |
 
