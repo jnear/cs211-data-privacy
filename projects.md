@@ -35,7 +35,7 @@ The final project is worth 20% of your final grade. The schedule for final proje
 
 ### Graduate Students
 
-Graduate students (and undergraduates taking the course for graduate credit) will be expected to develop a more ambitious final project. In particular, your project writeup should be written in the style of a conference paper, and clearly describe the motivation for your work, your results, and what those results teach us that wasn't previously known. The goal is to give you practice in writing up a technical result in the style of a conference publication.
+Graduate students (and undergraduates taking the course for graduate credit) will be expected to develop a more ambitious final project (a more sophisticated algorithm or approach; a larger or more challenging dataset; or a more detailed analysis of experimental results).
 
 ## Project Ideas
 
