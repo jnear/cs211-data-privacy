@@ -111,6 +111,43 @@ Your grade for the course will be determined as follows:
 - final exam (10%)
 - final project (10%)
 
+Your final grade will be determined by summing the total number of
+points awarded and calculating the percentage of the total possible
+points. This percentage is translated into a letter grade as follows:
+
+#### Undergraduate Students
+
+| Percent | Letter Grade |
+| ------: | ------------ |
+| 98-100  | A+           |
+| 93-97   | A            |
+| 90-92   | A-           |
+| 87-89   | B+           |
+| 83-86   | B            |
+| 80-82   | B-           |
+| 77-79   | C+           |
+| 73-76   | C            |
+| 70-72   | C-           |
+| 67-69   | D+           |
+| 63-66   | D            |
+| 60-62   | D-           |
+| <60     | F            |
+
+#### Graduate Students
+
+| Percent | Letter Grade |
+| ------: | ------------ |
+| 98-100  | A+           |
+| 93-97   | A            |
+| 90-92   | A-           |
+| 87-89   | B+           |
+| 83-86   | B            |
+| 80-82   | B-           |
+| 77-79   | C+           |
+| 73-76   | C            |
+| 70-72   | C-           |
+| <70     | F            |
+
 ### Exams & Quizzes
 
 There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam.
@@ -124,7 +161,7 @@ in as Jupyter notebooks. [Click
 here](https://jnear.github.io/cs211-data-privacy/jupyter) for
 instructions on installing Jupyter Notebook.
 
-**Assignment Submission*: Homework and in-class exercises will be
+**Assignment Submission**: Homework and in-class exercises will be
 turned in via Blackboard.
 
 To submit an assignment:
