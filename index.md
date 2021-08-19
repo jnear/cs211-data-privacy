@@ -5,6 +5,20 @@ layout: default
 
 # UVM CS 211: Data Privacy (Fall 2021)
 
+  * [Announcements](#announcements)
+  * [Course Description](#course-description)
+  * [Administrative](#administrative)
+  * [Textbook & Other References](#textbook---other-references)
+  * [Policies](#policies)
+    + [Grading](#grading)
+    + [Exams & Quizzes](#exams---quizzes)
+    + [Homework Assignments and In-class Exercises](#homework-assignments-and-in-class-exercises)
+    + [Late Work](#late-work)
+    + [Collaboration & Allowed References](#collaboration---allowed-references)
+  * [Final Projects](#final-projects)
+  * [CS Student Research Day & Extra Credit](#cs-student-research-day---extra-credit)
+  * [Schedule](#schedule)
+
 ## Announcements
 
 None yet.
