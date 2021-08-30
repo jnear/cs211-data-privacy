@@ -107,6 +107,7 @@ In addition to these, we will reference a number of academic papers throughout t
 
 ### Links and Helpful Resources
 
+ - [How to set up Jupyter Notebooks](https://jnear.github.io/cs211-data-privacy/jupyter)
  - [Definitions and formulas](https://github.com/jnear/cs211-data-privacy/blob/master/slides/formulas.pdf) that may be helpful on quizzes and exams
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
  - [Intro to differentially private machine learning](https://github.com/jnear/cs211-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
