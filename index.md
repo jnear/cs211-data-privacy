@@ -8,6 +8,7 @@ layout: default
   * [Announcements](#announcements)
   * [Course Description](#course-description)
   * [Administrative](#administrative)
+  * [Resources](#resources)
   * [Textbook & Other References](#textbook---other-references)
   * [Policies](#policies)
     + [Grading](#grading)
@@ -66,7 +67,7 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: Mondays, 3pm-4pm; Fridays, 4pm-5pm; and by appointment
+- **Office hours**: Mondays and Fridays, 10am-11am, and by appointment; Innovation Hall E458 (or MS Teams)
 
 ## Resources
 
@@ -247,21 +248,21 @@ Important due dates:
 - Homework assignments are due every *Monday* at 11:59pm.
 - In-class weekly exercises are due every *Friday*, by 11:59pm.
 
-| Item                                                                                       | Due Date |
-| -----------------------------------------------------------------------------------------: | -------- |
-| Homework 1                                                                                 | 9/13/20  |
-| Homework 2                                                                                 | 9/20/20  |
-| Homework 3                                                                                 | 9/27/20  |
-| Homework 4                                                                                 | 10/4/20  |
-| Homework 5                                                                                 | 10/13/20 |
-| Homework 6                                                                                 | 10/18/20 |
-| Homework 7                                                                                 | 10/25/20 |
-| Homework 8                                                                                 | 11/1/20  |
-| Homework 9                                                                                 | 11/8/20  |
-| Homework 10                                                                                | 11/15/20 |
-| Homework 11                                                                                | 11/29/20 |
-| Project proposals                                                                          | 12/2/20  |
-| Final project writeup/video/implementation                                                 | 12/9/20  |
+| Item                                                                                            | Due Date |
+| -----------------------------------------------------------------------------------------:      | -------- |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/13/20  |
+| Homework 2                                                                                      | 9/20/20  |
+| Homework 3                                                                                      | 9/27/20  |
+| Homework 4                                                                                      | 10/4/20  |
+| Homework 5                                                                                      | 10/13/20 |
+| Homework 6                                                                                      | 10/18/20 |
+| Homework 7                                                                                      | 10/25/20 |
+| Homework 8                                                                                      | 11/1/20  |
+| Homework 9                                                                                      | 11/8/20  |
+| Homework 10                                                                                     | 11/15/20 |
+| Homework 11                                                                                     | 11/29/20 |
+| Project proposals                                                                               | 12/2/20  |
+| Final project writeup/video/implementation                                                      | 12/9/20  |
 
 Schedule of topics:
 
