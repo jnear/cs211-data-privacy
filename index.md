@@ -67,7 +67,9 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
-- **Office hours**: Mondays and Fridays, 10am-11am, and by appointment; Innovation Hall E458 (or MS Teams)
+- **Office hours**: 
+  - **Joe Near** (instructor): Mondays and Fridays, 10am-11am, and by appointment; Innovation Hall E458 (or MS Teams)
+  - **Protiva Sen** (graduate TA): Wednesdays, 11:30am-12:30pm; lobby outside Innovation Hall E316
 
 ## Resources
 
