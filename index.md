@@ -168,7 +168,7 @@ points. This percentage is translated into a letter grade as follows:
 
 ### Exams & Quizzes
 
-There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam.
+There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam. See the schedule below for the dates.
 
 ### Homework Assignments and In-class Exercises
 
@@ -250,21 +250,28 @@ Important due dates:
 - Homework assignments are due every *Monday* at 11:59pm.
 - In-class weekly exercises are due every *Friday*, by 11:59pm.
 
+Exam dates:
+
+- Midterm exam: Monday, October 11, during class (Dewey 314)
+- Final exam: Monday, December 13, 1:30pm - 2:30pm (Dewey 314)
+
+Homework dates:
+
 | Item                                                                                            | Due Date |
 | -----------------------------------------------------------------------------------------:      | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/13/20  |
-| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb) | 9/20/20  |
-| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb) | 9/27/20  |
-| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb) | 10/4/20  |
-| Homework 5                                                                                      | 10/13/20 |
-| Homework 6                                                                                      | 10/18/20 |
-| Homework 7                                                                                      | 10/25/20 |
-| Homework 8                                                                                      | 11/1/20  |
-| Homework 9                                                                                      | 11/8/20  |
-| Homework 10                                                                                     | 11/15/20 |
-| Homework 11                                                                                     | 11/29/20 |
-| Project proposals                                                                               | 12/2/20  |
-| Final project writeup/video/implementation                                                      | 12/9/20  |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/13/21  |
+| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb) | 9/20/21  |
+| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb) | 9/27/21  |
+| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb) | 10/4/21  |
+| Homework 5                                                                                      | 10/18/21 |
+| Homework 6                                                                                      | 10/25/21 |
+| Homework 7                                                                                      | 11/1/21  |
+| Homework 8                                                                                      | 11/8/21  |
+| Homework 9                                                                                      | 11/15/21 |
+| Homework 10                                                                                     | 11/22/21 |
+| Homework 11                                                                                     | 12/6/21  |
+| Project proposals                                                                               | 11/22/21 |
+| Final project writeup/video/implementation                                                      | 12/10/21 |
 
 Schedule of topics:
 
