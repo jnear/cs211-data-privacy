@@ -1,5 +1,12 @@
 # Exam 2 Topic List
 
+## Local Sensitivity
+
+- Definition & difference from global sensitivity
+- Challenges (e.g. leaks information about the data)
+- Propose-test-release
+- Smooth sensitivity
+
 ## Variants of Differential Privacy
 
 - Advantages compared to ε, (ε,δ)-DP
