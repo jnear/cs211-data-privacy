@@ -268,9 +268,9 @@ Homework dates:
 | [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb) | 11/1/21  |
 | [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb) | 11/8/21  |
 | [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb) | 11/15/21 |
-| Homework 10                                                                                     | 11/22/21 |
-| Homework 11                                                                                     | 12/6/21  |
-| Project proposals                                                                               | 11/22/21 |
+| Homework 10                                                                                     | 12/6/21  |
+| Homework 11                                                                                     | Canceled |
+| Project proposals                                                                               | 11/19/21 |
 | Final project writeup/video/implementation                                                      | 12/10/21 |
 
 Schedule of topics:
@@ -289,8 +289,8 @@ Schedule of topics:
 | 11/1/21    | Privacy-preserving machine learning; differentially private SGD                            | Ch. 12    |
 | 11/8/21    | Local differential privacy                                                                 | Ch. 13    |
 | 11/15/21   | Differentially private synthetic data                                                      | Ch. 14    |
-| 11/22/21   | Privacy in deep learning (no class Wednesday, Friday)                                      |           |
-| 11/29/21   | Practical systems for privacy                                                              |           |
+| 11/22/21   | No class (Thanksgiving)                                                                    |           |
+| 11/29/21   | Privacy in deep learning; Practical systems for privacy                                    |           |
 | 12/6/21    | Open challenges; review                                                                    |           |
 
 # Accommodations

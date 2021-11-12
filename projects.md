@@ -1,4 +1,4 @@
-# Final Project Information (Fall 2020)
+# Final Project Information (Fall 2021)
 
 ## Schedule & Requirements
 
@@ -27,10 +27,10 @@ The final project is worth 20% of your final grade. The schedule for final proje
 
 | Deliverable                | Due Date                      | Grade Percent | Turn In    |
 | ---------------------:     | ----------------------------- | ------------- | ---------- |
-| Project Proposal           | 12/2/20 by 11:59pm            | 10%           | Blackboard |
-| Project Presentation Video | 12/9/20 by 11:59pm            | 30%           | Blackboard |
-| Implementation             | 12/9/20 at 5:00pm             | 40%           | Blackboard |
-| Project Writeup            | 12/9/20 at 5:00pm             | 20%           | Blackboard |
+| Project Proposal           | 11/19/21 by 11:59pm           | 10%           | Blackboard |
+| Project Presentation Video | 12/10/21 by 11:59pm           | 30%           | Blackboard |
+| Implementation             | 12/10/21 at 5:00pm            | 40%           | Blackboard |
+| Project Writeup            | 12/10/21 at 5:00pm            | 20%           | Blackboard |
 
 
 ### Graduate Students
@@ -44,10 +44,12 @@ You're welcome to work on any project interesting to you, as long as it's relate
 ### Analysis of a *new* dataset, with differential privacy (suggested option)
 
 #### Sources of data
+
   - [Kaggle datasets](https://www.kaggle.com/datasets)
   - [COMPAS dataset](https://www.kaggle.com/danofer/compass)
   - [Census data](https://data.census.gov/cedsci/advanced)
   - [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets.php)
+
 #### Analysis ideas
   - For a workload of queries on several columns, compare the Laplace and Gaussian mechanisms
   - Analyze clipping parameters for some of the columns (e.g. for summation)
