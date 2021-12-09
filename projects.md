@@ -29,8 +29,8 @@ The final project is worth 20% of your final grade. The schedule for final proje
 | ---------------------:     | ----------------------------- | ------------- | ---------- |
 | Project Proposal           | 11/19/21 by 11:59pm           | 10%           | Blackboard |
 | Project Presentation Video | 12/10/21 by 11:59pm           | 30%           | Blackboard |
-| Implementation             | 12/10/21 at 5:00pm            | 40%           | Blackboard |
-| Project Writeup            | 12/10/21 at 5:00pm            | 20%           | Blackboard |
+| Implementation             | 12/10/21 at 11:59pm           | 40%           | Blackboard |
+| Project Writeup            | 12/10/21 at 11:59pm           | 20%           | Blackboard |
 
 
 ### Graduate Students
