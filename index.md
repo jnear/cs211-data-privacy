@@ -273,8 +273,8 @@ Schedule of topics:
 | 9/12/22    | Intro to differential privacy                                                                   | Ch. 3     |
 | 9/19/22    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget (no class Friday) | Ch. 4, 5  |
 | 9/26/22    | Sensitivity & clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
-| 10/3/22    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate               | Ch. 6     |
-| 10/10/22   | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                           | Ch. 7     |
+| 10/3/22    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate               | Ch. 7     |
+| 10/10/22   | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                           | None      |
 | 10/17/22   | Recent variants of differential privacy                                                         | Ch. 8     |
 | 10/24/22   | Exponential mechanism; sparse vector technique                                                  | Ch. 9, 10 |
 | 10/31/22   | Privacy-preserving machine learning; differentially private SGD                                 | Ch. 12    |
