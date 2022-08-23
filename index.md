@@ -3,9 +3,8 @@ title: CS 211 Data Privacy
 layout: default
 ---
 
-# UVM CS 211: Data Privacy (Fall 2021)
+# UVM CS 211: Data Privacy (Fall 2022)
 
-  * [Announcements](#announcements)
   * [Course Description](#course-description)
   * [Administrative](#administrative)
   * [Resources](#resources)
@@ -19,10 +18,6 @@ layout: default
   * [Final Projects](#final-projects)
   * [CS Student Research Day & Extra Credit](#cs-student-research-day--extra-credit)
   * [Schedule](#schedule)
-
-## Announcements
-
-None yet.
 
 ## Course Description
 
@@ -67,14 +62,14 @@ By the end of this course, you will be able to:
 
 - **Lecture**: Monday, Wednesday, Friday, 1:10pm - 2:00pm, at Dewey Hall 314
 - **Instructor**: Joe Near (jnear at uvm dot edu)
+- **Graduate Teaching Assistant**: Protiva Sen
 - **Office hours**: 
-  - **Joe Near** (instructor): Mondays and Fridays, 10am-11am, and by appointment; Innovation Hall E458 (or MS Teams)
-  - **Protiva Sen** (graduate TA): Wednesdays, 11:30am-12:30pm; lobby outside Innovation Hall E316
+  - **Joe Near** (instructor): Mondays and Fridays, 9:30am-10:30am, and by appointment; Innovation Hall E458 (or MS Teams)
 
 ## Resources
 
 - **Course textbook** is available [online](https://programming-dp.com) or as a [PDF](https://github.com/uvm-plaid/programming-dp/blob/master/book.pdf)
-- **Blackboard** for the course is available [here](tba)
+- **Blackboard** for the course is available [here](https://bb.uvm.edu/webapps/blackboard/execute/launcher?type=Course&id=_171840_1)
 - **Course Github Repo** [is available here](https://github.com/jnear/cs211-data-privacy)
 - **Weekly exercises**
   - [Download exercises here](https://github.com/jnear/cs211-data-privacy/tree/master/exercises)
@@ -84,7 +79,7 @@ By the end of this course, you will be able to:
   - Turn in notebook files on Blackboard
 - **Discussions** will take place on MS Teams
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
-- **Review Sheets** for exams:
+- **Review Sheets** for exams (not yet updated for 2022):
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
   - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
 
@@ -123,9 +118,9 @@ In addition to these, we will reference a number of academic papers throughout t
 
 Your grade for the course will be determined as follows:
 
-- 11 homework assignments (5% each; 55% total)
+- 10 homework assignments (5% each; 50% total)
 - in-class weekly exercises (20% total)
-- midterm exam (5%)
+- midterm exam (10%)
 - final exam (10%)
 - final project (10%)
 
@@ -166,7 +161,7 @@ points. This percentage is translated into a letter grade as follows:
 | 70-72   | C-           |
 | <70     | F            |
 
-### Exams & Quizzes
+### Exams
 
 There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam. See the schedule below for the dates.
 
@@ -203,8 +198,7 @@ email me *before the deadline*. Depending on the circumstances, I may
 
 Collaboration on the high-level ideas and approach on assignments is encouraged.
 Copying someone else's work is not allowed.
-Any collaboration, even at a high level, must be declared when you submit your assignment.
-Every assignment must include a collaboration statement.
+Any collaboration, even at a high level, must be declared when you submit your assignment, in a note at the top of the assignment.
 E.g., "I discussed high-level strategies for solving problem 2 and 5 with Alex."
 
 The official references for the course are listed in the schedule below.
@@ -225,25 +219,24 @@ Click [here](https://jnear.github.io/cs211-data-privacy/projects) for more compl
 
 ## CS Student Research Day & Extra Credit
 
-We will **not hold class** on **Friday, September 3**. I encourage you
+We will **not hold class** on **Friday, September 23**. I encourage you
 to attend [CS Student Research
-Day](https://www.uvm.edu/~jonaolap/cs-srd/2021.html) and learn about
+Day](https://www.uvm.edu/~jonaolap/csrd/2022.html) and learn about
 the awesome research being done by CS students at UVM!
 
-- Attendees have a chance to win *mystery prizes*
 - If you attend **one full session** of talks (either morning or
   afternoon, or both!), **take brief notes on the talks you hear**,
-  and **send the notes to me via email by 11:59pm on September 3**, I
+  and **send the notes to me via email by 11:59pm on September 23**, I
   will give **1% extra credit to your final grade in the course**
 
 ## Schedule
 
 Note that class will **not** be held on the following dates:
 
-- Friday, September 3 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/cs-srd/2021.html))
-- Monday, September 6 (Labor Day)
-- Friday, October 8 (Fall Recess)
-- November 22-26 (Thanksgiving)
+- Monday, September 5 (Labor Day)
+- Friday, September 23 (please attend [CS Student Research Day](https://www.uvm.edu/~jonaolap/cs-srd/2021.html))
+- Friday, October 14 (Fall Recess)
+- November 21-25 (Thanksgiving)
 
 Important due dates:
 
@@ -252,46 +245,45 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Monday, October 11, during class (Dewey 314)
-- Final exam: Monday, December 13, 1:30pm - 2:30pm (Dewey 314)
+- Midterm exam: Wednesday, October 11, during class (Dewey 314)
+- Final exam: December 15, 10:30am - 11:30am (Dewey 314)
 
 Homework dates:
 
-| Item                                                                                              | Due Date |
-| -----------------------------------------------------------------------------------------:        | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb)   | 9/13/21  |
-| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb)   | 9/20/21  |
-| [Homework 3](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_3.ipynb)   | 9/27/21  |
-| [Homework 4](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_4.ipynb)   | 10/4/21  |
-| [Homework 5](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_5.ipynb)   | 10/18/21 |
-| [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb)   | 10/25/21 |
-| [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb)   | 11/1/21  |
-| [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb)   | 11/8/21  |
-| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb)   | 11/15/21 |
-| [Homework 10](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_10.ipynb) | 12/6/21  |
-| Homework 11                                                                                       | Canceled |
-| Project proposals                                                                                 | 11/19/21 |
-| Final project writeup/video/implementation                                                        | 12/10/21 |
+| Item                                                                                       | Due Date |
+| -----------------------------------------------------------------------------------------: | -------- |
+| Homework 1                                                                                 | 9/12/21  |
+| Homework 2                                                                                 | 9/19/21  |
+| Homework 3                                                                                 | 9/26/21  |
+| Homework 4                                                                                 | 10/3/21  |
+| Homework 5                                                                                 | 10/17/21 |
+| Homework 6                                                                                 | 10/24/21 |
+| Homework 7                                                                                 | 10/31/21 |
+| Homework 8                                                                                 | 11/7/21  |
+| Homework 9                                                                                 | 11/14/21 |
+| Homework 10                                                                                | 12/5/21  |
+| Project proposals                                                                          | 11/18/21 |
+| Final project writeup/video/implementation                                                 | 12/12/21 |
 
 Schedule of topics:
 
-| Week of... | Topics                                                                                     | Reference |
-| ---------: | ------------------------------------------------------------------------------------       | --------- |
-| 8/30/21    | Intro to data privacy; de-identification; re-identification (no class Friday; no exercise) | Ch. 1     |
-| 9/6/21     | k-Anonymity and l-Diversity (no class Monday)                                              | Ch. 2     |
-| 9/13/21    | Intro to differential privacy                                                              | Ch. 3     |
-| 9/20/21    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget              | Ch. 4, 5  |
-| 9/27/21    | Sensitivity & clipping; approximate DP; Gaussian mech.                                     | Ch. 6     |
-| 10/4/21    | *Intermission*. Advanced composition; real systems (no class Friday; no exercise)          | Ch. 6     |
-| 10/11/21   | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate          | Ch. 7     |
-| 10/18/21   | Recent variants of differential privacy                                                    | Ch. 8     |
-| 10/25/21   | Exponential mechanism; sparse vector technique                                             | Ch. 9, 10 |
-| 11/1/21    | Privacy-preserving machine learning; differentially private SGD                            | Ch. 12    |
-| 11/8/21    | Local differential privacy                                                                 | Ch. 13    |
-| 11/15/21   | Differentially private synthetic data                                                      | Ch. 14    |
-| 11/22/21   | No class (Thanksgiving)                                                                    |           |
-| 11/29/21   | Privacy in deep learning; Practical systems for privacy                                    |           |
-| 12/6/21    | Open challenges; review                                                                    |           |
+| Week of... | Topics                                                                                          | Reference |
+| ---------: | ------------------------------------------------------------------------------------            | --------- |
+| 8/29/22    | Intro to data privacy; de-identification; re-identification (no exercise)                       | Ch. 1     |
+| 9/5/22     | k-Anonymity and l-Diversity (no class Monday)                                                   | Ch. 2     |
+| 9/12/22    | Intro to differential privacy                                                                   | Ch. 3     |
+| 9/19/22    | Sensitivity; Laplace mechanism; post-processing; composition & privacy budget (no class Friday) | Ch. 4, 5  |
+| 9/26/22    | Sensitivity & clipping; approximate DP; Advanced composition; Gaussian mechanism                | Ch. 6     |
+| 10/3/22    | Local sensitivity; propose-test-release, smooth sensitivity, sample-and-aggregate               | Ch. 6     |
+| 10/10/22   | *Intermission.* Review (exam Wednesday; no class Friday; no exercise)                           | Ch. 7     |
+| 10/17/22   | Recent variants of differential privacy                                                         | Ch. 8     |
+| 10/24/22   | Exponential mechanism; sparse vector technique                                                  | Ch. 9, 10 |
+| 10/31/22   | Privacy-preserving machine learning; differentially private SGD                                 | Ch. 12    |
+| 11/7/22    | Local differential privacy                                                                      | Ch. 13    |
+| 11/14/22   | Differentially private synthetic data                                                           | Ch. 14    |
+| 11/21/22   | No class (Thanksgiving)                                                                         |           |
+| 11/28/22   | Privacy in deep learning; Practical systems for privacy                                         |           |
+| 12/5/22    | Open challenges; review                                                                         |           |
 
 # Accommodations
 
