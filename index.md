@@ -110,7 +110,6 @@ In addition to these, we will reference a number of academic papers throughout t
  - [Notes on probability distributions](https://www3.nd.edu/~rwilliam/stats1/x11.pdf)
  - [Intro to differentially private machine learning](https://github.com/jnear/cs211-data-privacy/blob/master/slides/Intro%20to%20machine%20learning.ipynb)
  - [Variants of differential privacy](https://github.com/jnear/cs211-data-privacy/blob/master/slides/privacy_definitions.pdf)
- - Vincent Bindschaedler's [Synthetic Data Generation Framework](https://vbinds.ch/node/69)
 
 ## Policies
 
@@ -161,7 +160,7 @@ points. This percentage is translated into a letter grade as follows:
 | 70-72   | C-           |
 | <70     | F            |
 
-### Exams
+### Exams & Quizzes
 
 There will be two exams: a midterm and a final. You will be allowed one page of notes for each exam. See the schedule below for the dates.
 
