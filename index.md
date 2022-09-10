@@ -251,18 +251,18 @@ Homework dates:
 
 | Item                                                                                            | Due Date |
 | -----------------------------------------------------------------------------------------:      | -------- |
-| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/12/21  |
-| Homework 2                                                                                      | 9/19/21  |
-| Homework 3                                                                                      | 9/26/21  |
-| Homework 4                                                                                      | 10/3/21  |
-| Homework 5                                                                                      | 10/17/21 |
-| Homework 6                                                                                      | 10/24/21 |
-| Homework 7                                                                                      | 10/31/21 |
-| Homework 8                                                                                      | 11/7/21  |
-| Homework 9                                                                                      | 11/14/21 |
-| Homework 10                                                                                     | 12/5/21  |
-| Project proposals                                                                               | 11/18/21 |
-| Final project writeup/video/implementation                                                      | 12/12/21 |
+| [Homework 1](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_1.ipynb) | 9/12/22  |
+| [Homework 2](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_2.ipynb) | 9/19/22  |
+| Homework 3                                                                                      | 9/26/22  |
+| Homework 4                                                                                      | 10/3/22  |
+| Homework 5                                                                                      | 10/17/22 |
+| Homework 6                                                                                      | 10/24/22 |
+| Homework 7                                                                                      | 10/31/22 |
+| Homework 8                                                                                      | 11/7/22  |
+| Homework 9                                                                                      | 11/14/22 |
+| Homework 10                                                                                     | 12/5/22  |
+| Project proposals                                                                               | 11/18/22 |
+| Final project writeup/video/implementation                                                      | 12/12/22 |
 
 Schedule of topics:
 
