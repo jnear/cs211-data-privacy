@@ -244,7 +244,7 @@ Important due dates:
 
 Exam dates:
 
-- Midterm exam: Wednesday, October 11, during class (Dewey 314)
+- Midterm exam: Wednesday, October 12, during class (Dewey 314)
 - Final exam: December 15, 10:30am - 11:30am (Dewey 314)
 
 Homework dates:
