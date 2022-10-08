@@ -2,15 +2,14 @@
 
 ## Informal Notions of Data Privacy
 
-- De-identification / removing PII
-- Statistical disclosure control
-- Linkage attacks / auxiliary information attacks
+- De-identification / anonymizaion / removing PII
+- Re-identification: Linkage attacks / auxiliary information attacks
 
 ## K-Anonymity
 
 - Definition
 - Challenges (utility & computational)
-- Homogeneity attack
+- Attacks: Homogeneity attack, Auxiliary data attack
 
 ## Differential Privacy & its Properties
 
@@ -18,12 +17,13 @@
 - Sequential composition
 - Parallel composition
 - Post-processing
+- Analyzing the privacy cost of programs
 
 ## Global Sensitivity
 
 - Sensitivity of real-valued functions
 - L1 / L2 sensitivity of vector-valued functions
-- Sensitivity of various functions (count, sum, mean)
+- Sensitivity of various functions (count, sum, mean, histograms)
 
 ## (ε, δ)-Differential Privacy
 
