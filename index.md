@@ -259,7 +259,7 @@ Homework dates:
 | [Homework 6](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_6.ipynb) | 10/24/22 |
 | [Homework 7](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_7.ipynb) | 10/31/22 |
 | [Homework 8](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb) | 11/7/22  |
-| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_8.ipynb) | 11/14/22 |
+| [Homework 9](https://github.com/jnear/cs211-data-privacy/blob/master/homework/CS211_HW_9.ipynb) | 11/14/22 |
 | Homework 10                                                                                     | 12/5/22  |
 | Project proposals                                                                               | 11/18/22 |
 | Final project writeup/video/implementation                                                      | 12/12/22 |
