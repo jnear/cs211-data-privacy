@@ -81,7 +81,7 @@ By the end of this course, you will be able to:
 - **Slides** from lecture are available [here](https://github.com/jnear/cs211-data-privacy/tree/master/slides)
 - **Review Sheets** for exams:
   - [Exam 1](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam1-review.md)
-  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md) (not yet updated for 2022)
+  - [Exam 2](https://github.com/jnear/cs211-data-privacy/blob/master/slides/exam2-review.md)
 
 ## Textbook & Other References
 

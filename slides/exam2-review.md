@@ -30,7 +30,7 @@
   - What is gradient descent
   - What is the format of a linear model
   - How to bound the sensitivity of the gradient (clipping the gradient's L2 norm)
-  - Composition issues
+  - Composition issues and best privacy variants
 
 ## Local Differential privacy
 
@@ -51,6 +51,13 @@
   - Advantage: n-way preserves correlation
   - Disadvantage: as n grows, counts shrink, and noise becomes overwhelming
 - Challenge of dimensionality
+
+## Units of Privacy
+
+- Definition (in terms of neighboring datasets)
+- Evaluating a unit of privacy: "user-level" vs others
+- Transforming the unit of privacy
+  - Bounding user contribution & adjusting sensitivity
 
 ## Tradeoffs and Lessons Learned
 
