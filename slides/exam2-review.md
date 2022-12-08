@@ -6,6 +6,7 @@
 - Challenges (e.g. leaks information about the data)
 - Propose-test-release
 - Smooth sensitivity
+- Sample and aggregate
 
 ## Variants of Differential Privacy
 
